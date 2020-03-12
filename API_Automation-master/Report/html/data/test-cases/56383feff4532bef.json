@@ -1,0 +1,82 @@
+{
+  "uid" : "56383feff4532bef",
+  "name" : "TestIndex.test_index_01",
+  "fullName" : "test_Index.TestIndex.test_index_01",
+  "historyId" : "6591a0448aa7639950b094fe3ab526f1",
+  "time" : {
+    "start" : 1583486184932,
+    "stop" : 1583486185608,
+    "duration" : 676
+  },
+  "description" : "\n            用例描述：验证首页统计\n        ",
+  "descriptionHtml" : "<pre><code>        用例描述：验证首页统计\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f5dc272cf787e5c7",
+      "name" : "Captured log call",
+      "source" : "f5dc272cf787e5c7.txt",
+      "type" : "text/plain",
+      "size" : 690
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Home"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-IK50NUD"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "story",
+    "value" : "Index"
+  }, {
+    "name" : "thread",
+    "value" : "4292-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_Index"
+  }, {
+    "name" : "testClass",
+    "value" : "test_Index"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestIndex.test_index_01"
+  }, {
+    "name" : "package",
+    "value" : "test_Index"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "56383feff4532bef.json",
+  "parameterValues" : [ ]
+}

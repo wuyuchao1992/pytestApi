@@ -1,0 +1,82 @@
+{
+  "uid" : "68f6c38140a29a6f",
+  "name" : "TestIndependentContract.test_IndependentContract_02",
+  "fullName" : "test_IndependentContract.TestIndependentContract.test_IndependentContract_02",
+  "historyId" : "2fc1769e73fe82b93cbcc05341e43f51",
+  "time" : {
+    "start" : 1583486183197,
+    "stop" : 1583486184930,
+    "duration" : 1733
+  },
+  "description" : "\n            用例描述：验证是否开启实名\n        ",
+  "descriptionHtml" : "<pre><code>        用例描述：验证是否开启实名\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "73f8a61c30ee7540",
+      "name" : "Captured log call",
+      "source" : "73f8a61c30ee7540.txt",
+      "type" : "text/plain",
+      "size" : 896
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Home"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-IK50NUD"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "story",
+    "value" : "IndependentContract"
+  }, {
+    "name" : "thread",
+    "value" : "4292-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_IndependentContract"
+  }, {
+    "name" : "testClass",
+    "value" : "test_IndependentContract"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestIndependentContract.test_IndependentContract_02"
+  }, {
+    "name" : "package",
+    "value" : "test_IndependentContract"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "68f6c38140a29a6f.json",
+  "parameterValues" : [ ]
+}

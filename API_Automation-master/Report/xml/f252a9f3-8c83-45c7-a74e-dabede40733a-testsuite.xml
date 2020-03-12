@@ -1,0 +1,25 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1583486186773" stop="1583486187126">
+  <name>test_OrderList</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1583486186773" status="passed" stop="1583486187126">
+      <description>
+            用例描述：验证保理1订单列表搜索筛选功能
+        </description>
+      <name>TestOrderList.test_orderList_01</name>
+      <attachments>
+        <attachment source="30f56bd1-22bf-404c-b672-a9df0cbc7db4-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="blocker"/>
+        <label name="story" value="OrderList"/>
+        <label name="feature" value="Home"/>
+        <label name="thread" value="4292-MainThread"/>
+        <label name="host" value="DESKTOP-IK50NUD"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

@@ -1,0 +1,11 @@
+---
+GetContractList:
+  dec: 合同列表
+  parameters:
+  -
+    url: /work_v2/contract/getContractList
+    data:
+      startDate: 2020-03-06
+      endDate: 2020-03-06
+      keywords: 合同
+      isComplete: 0 # 合同状态

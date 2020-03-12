@@ -1,0 +1,10 @@
+[ {
+  "values" : [ "debug" ],
+  "name" : "environment"
+}, {
+  "values" : [ "api.hsbro.com.cn" ],
+  "name" : "hostname"
+}, {
+  "values" : [ "your name" ],
+  "name" : "tester"
+} ]

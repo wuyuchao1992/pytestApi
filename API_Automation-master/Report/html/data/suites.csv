@@ -1,0 +1,25 @@
+"Status","Name","Duration in ms","Description"
+"passed","test_IndependentContract.TestIndependentContract.test_IndependentContract_01","1787","
+            用例描述：验证新增企业CA是否成功
+        "
+"passed","test_Index.TestIndex.test_index_01","676","
+            用例描述：验证首页统计
+        "
+"passed","test_Index.TestIndex.test_index_03","602","
+            用例描述：验证首页按指定统计门店数据
+        "
+"passed","test_CreateCa.TestCreateCa.test_createCa_01","2760","
+            用例描述：验证新增企业CA是否成功
+        "
+"passed","test_IndependentContract.TestIndependentContract.test_IndependentContract_02","1733","
+            用例描述：验证是否开启实名
+        "
+"passed","test_CreateCa.TestCreateCa.test_createCa_02","2275","
+            用例描述：验证是否开启实名
+        "
+"passed","test_OrderList.TestOrderList.test_orderList_01","353","
+            用例描述：验证保理1订单列表搜索筛选功能
+        "
+"passed","test_Index.TestIndex.test_index_02","559","
+            用例描述：验证首页按年统计门店数据
+        "

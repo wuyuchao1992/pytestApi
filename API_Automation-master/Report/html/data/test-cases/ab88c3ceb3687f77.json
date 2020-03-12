@@ -1,0 +1,82 @@
+{
+  "uid" : "ab88c3ceb3687f77",
+  "name" : "TestIndependentContract.test_IndependentContract_01",
+  "fullName" : "test_IndependentContract.TestIndependentContract.test_IndependentContract_01",
+  "historyId" : "aa63d5ff3ad906b8feaea36c482698c8",
+  "time" : {
+    "start" : 1583486181409,
+    "stop" : 1583486183196,
+    "duration" : 1787
+  },
+  "description" : "\n            用例描述：验证新增企业CA是否成功\n        ",
+  "descriptionHtml" : "<pre><code>        用例描述：验证新增企业CA是否成功\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "24faa5ad081b87e1",
+      "name" : "Captured log call",
+      "source" : "24faa5ad081b87e1.txt",
+      "type" : "text/plain",
+      "size" : 896
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Home"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-IK50NUD"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "story",
+    "value" : "IndependentContract"
+  }, {
+    "name" : "thread",
+    "value" : "4292-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_IndependentContract"
+  }, {
+    "name" : "testClass",
+    "value" : "test_IndependentContract"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestIndependentContract.test_IndependentContract_01"
+  }, {
+    "name" : "package",
+    "value" : "test_IndependentContract"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ab88c3ceb3687f77.json",
+  "parameterValues" : [ ]
+}

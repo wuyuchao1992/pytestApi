@@ -1,0 +1,6 @@
+{
+  "test_admin.py::TestBasic::()::test_shopStatistics_04": true,
+  "test_createCa.py::TestBasic::()::test_createCa_01": true,
+  "test_createCa.py::TestBasic::()::test_createCa_02": true,
+  "test_createCa.py::TestBasic::()::test_detail_01": true
+}

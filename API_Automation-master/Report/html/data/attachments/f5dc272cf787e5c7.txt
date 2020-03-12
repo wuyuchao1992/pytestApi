@@ -1,0 +1,5 @@
+connectionpool.py          225 DEBUG    Starting new HTTP connection (1): api.hsbro.com.cn:80
+connectionpool.py          437 DEBUG    http://api.hsbro.com.cn:80 "POST /work_v2/login HTTP/1.1" 200 None
+Log.py                      66 DEBUG    [DEBUG 2020-03-06 17:16:25]【cookies】:{}【token】:d43811f849ae91c8b331db2df73a4591【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+connectionpool.py          225 DEBUG    Starting new HTTP connection (1): api.hsbro.com.cn:80
+connectionpool.py          437 DEBUG    http://api.hsbro.com.cn:80 "GET /work_v2/index?token=d43811f849ae91c8b331db2df73a4591&userId=df5eafa4f36e24e584c3ad0a0f217f22&sign=c0818a67e156ab8276226f021444235d HTTP/1.1" 200 None

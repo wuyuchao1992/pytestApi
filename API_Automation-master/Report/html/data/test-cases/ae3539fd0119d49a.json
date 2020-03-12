@@ -1,0 +1,82 @@
+{
+  "uid" : "ae3539fd0119d49a",
+  "name" : "TestOrderList.test_orderList_01",
+  "fullName" : "test_OrderList.TestOrderList.test_orderList_01",
+  "historyId" : "60daf7086f71e25f6a1eeed4ccaf5e7f",
+  "time" : {
+    "start" : 1583486186773,
+    "stop" : 1583486187126,
+    "duration" : 353
+  },
+  "description" : "\n            用例描述：验证保理1订单列表搜索筛选功能\n        ",
+  "descriptionHtml" : "<pre><code>        用例描述：验证保理1订单列表搜索筛选功能\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8818d70c72d6569b",
+      "name" : "Captured log call",
+      "source" : "8818d70c72d6569b.txt",
+      "type" : "text/plain",
+      "size" : 870
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Home"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-IK50NUD"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "story",
+    "value" : "OrderList"
+  }, {
+    "name" : "thread",
+    "value" : "4292-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_OrderList"
+  }, {
+    "name" : "testClass",
+    "value" : "test_OrderList"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestOrderList.test_orderList_01"
+  }, {
+    "name" : "package",
+    "value" : "test_OrderList"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ae3539fd0119d49a.json",
+  "parameterValues" : [ ]
+}

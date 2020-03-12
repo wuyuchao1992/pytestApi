@@ -1,0 +1,82 @@
+{
+  "uid" : "deca713817fabc8f",
+  "name" : "TestCreateCa.test_createCa_01",
+  "fullName" : "test_CreateCa.TestCreateCa.test_createCa_01",
+  "historyId" : "66fda2a0b96df2823c3015f325e5eb0e",
+  "time" : {
+    "start" : 1583486176371,
+    "stop" : 1583486179131,
+    "duration" : 2760
+  },
+  "description" : "\n            用例描述：验证新增企业CA是否成功\n        ",
+  "descriptionHtml" : "<pre><code>        用例描述：验证新增企业CA是否成功\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "355c88f438abec2c",
+      "name" : "Captured log call",
+      "source" : "355c88f438abec2c.txt",
+      "type" : "text/plain",
+      "size" : 1690
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Home"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-IK50NUD"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "story",
+    "value" : "CreateCa"
+  }, {
+    "name" : "thread",
+    "value" : "4292-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_CreateCa"
+  }, {
+    "name" : "testClass",
+    "value" : "test_CreateCa"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestCreateCa.test_createCa_01"
+  }, {
+    "name" : "package",
+    "value" : "test_CreateCa"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "deca713817fabc8f.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,20 @@
+---
+Index:
+  dec: 首页统计
+  parameters:
+  -
+    url: /work_v2/index
+    data:
+      timestamp:
+  -
+    url: /work_v2/index/shopStatistics
+    data:
+      messageType: useMoneyTimes
+      timeType: year
+  -
+    url: /work_v2/index/shopStatistics
+    data:
+      messageType: totalAmount
+      timeType: section
+      startDate: 2020-03-01
+      endDate: 2020-04-07

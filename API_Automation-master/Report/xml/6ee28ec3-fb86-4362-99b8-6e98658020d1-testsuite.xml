@@ -1,0 +1,44 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1583486181409" stop="1583486184930">
+  <name>test_IndependentContract</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1583486181409" status="passed" stop="1583486183196">
+      <description>
+            用例描述：验证新增企业CA是否成功
+        </description>
+      <name>TestIndependentContract.test_IndependentContract_01</name>
+      <attachments>
+        <attachment source="29800c6f-364d-448b-a006-a338bccc7811-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="blocker"/>
+        <label name="story" value="IndependentContract"/>
+        <label name="feature" value="Home"/>
+        <label name="thread" value="4292-MainThread"/>
+        <label name="host" value="DESKTOP-IK50NUD"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1583486183197" status="passed" stop="1583486184930">
+      <description>
+            用例描述：验证是否开启实名
+        </description>
+      <name>TestIndependentContract.test_IndependentContract_02</name>
+      <attachments>
+        <attachment source="95974726-4ef9-4b36-87c2-c563ae542a75-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="blocker"/>
+        <label name="story" value="IndependentContract"/>
+        <label name="feature" value="Home"/>
+        <label name="thread" value="4292-MainThread"/>
+        <label name="host" value="DESKTOP-IK50NUD"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

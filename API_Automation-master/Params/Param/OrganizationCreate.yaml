@@ -1,0 +1,60 @@
+---
+OrganizationCreate:
+  dec: ADMIN添加汽贸店
+  parameters:
+  -
+    url: /work_v2/organization/create
+    data:
+      corporation: 谢斐 # 法人姓名
+      name: 南京数龙计算机科技有限公司 # 公司名称
+      licenseCode: 91320191674924082C # 工商号
+      license: http://qiniu.hsbro.cn/1545898825805_身份证(1).jpg
+      securities: http://qiniu.hsbro.cn/1545898825805_身份证(1).jpg
+      image: http://qiniu.hsbro.cn/1545898825805_身份证(1).jpg
+      address: 广州
+      detailAddress: 天河区
+      account: 6222021907005281741
+      bankName: 建设银行
+      bankBranch: 深圳宝安分行
+      phone: 18925269236
+      idCard: 130635198510286167
+      email: 770517693@qq.com
+      idCardOn: http://qiniu.hsbro.cn/1545898825805_身份证(1).jpg
+      idCardOff: http://qiniu.hsbro.cn/1545898825805_身份证(1).jpg
+      isShareHolder: 1 # 是否是大股东 0不是 1是
+      signName: 吴宇超
+      shareHolder: 这是大股东
+      shareHolderPhone: 18675343867
+      shareHolderEmail: 770517692@qq.com
+      shareHolderIdCard: 130635198510286167
+      shareHolderIdCardOn: http://qiniu.hsbro.cn/1545898825805_身份证(1).jpg
+      shareHolderIdCardOff: http://qiniu.hsbro.cn/1545898825805_身份证(1).jpg
+      hasAgent: 1 # 签署人 0 法人 1 其他人
+      signName: 吴宇超
+      signPhone: 15976427940
+      signIdCard: 440785199202226310
+      signEmail: 770517692@qq.com
+      certificate: http://qiniu.hsbro.cn/1545898825805_身份证(1).jpg
+      verifyReport: http://qiniu.hsbro.cn/1545898825805_身份证(1).jpg
+      accountType: 0
+      consignName: 余待永
+      consignIdCard: 45032619840627183x
+      consignPhone: 18675343864
+      verifyAccount: sfsfafs
+      verifyPwd: 1234456
+      verifyCode: 4321
+      verifyReport: http://qiniu.hsbro.cn/1564558039473_1561341162079_%E8%B4%A7%E7%89%A9%E4%BF%9D%E9%99%A9%E5%90%88%E5%90%8C.rar
+      isActualController: 0 # 是否实际控股人 0不是 1是
+      other: [{"title": "这是资料标题1","remark": "这是资料说明1","images": "http://qiniu.hsbro.cn/1564558039473_1561341162079_%E8%B4%A7%E7%89%A9%E4%BF%9D%E9%99%A9%E5%90%88%E5%90%8C.rar"}]
+      provinceId: 110000
+      provinceName: 北京市
+      cityId: 110100
+      cityName: 北京市市辖区
+      areaId: 110101
+      areaName: 东城区
+      payroll: http://qiniu.hsbro.cn/1545898825805_身份证(1).jpg
+      bankList: [{"account":"6222021907005281742","bankName":"农业银行","bankBranch":"深圳宝安分行","userName":"aupl0401","phone":"18675343438"}]
+      utilityBill: http://qiniu.hsbro.cn/1545898825805_身份证(1).jpg
+      userAccount: 1990789001
+      businessIds: 1,2 # 业务ID    0：保理一业务  2：保理二业务 3：保理三（新车一贷） 4：二手车一贷
+      netType: 1 # 类型 1企业 2个人

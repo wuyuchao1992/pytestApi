@@ -1,0 +1,27 @@
+---
+IndependentContract:
+  dec: 发起独立合同
+  parameters:
+    -
+      url: /work_v2/contract/independentContract
+      data:
+        isManagerVerify: 0 # 是否需要审核0不要，1需要
+        signMethod: 0 # 签署方式 0双方签署 1对方签署
+        signVerifyWay: 1 # 签署校验方式 1短信 3刷脸 (仅用于个人)
+        contractTitle: 合同标题
+#        contractNo: Sys.time() # 合同编号，生成随机数
+        contractUrl: https://qiniu.hsbro.cn/1583377961046_1.pdf # 合同URL
+        isUpload: 1 # 是否为临时上传文件 0否 1是
+        caIds: 536 # 乙方签署ID
+
+    -
+      url: /work_v2/contract/independentContract
+      data:
+        isManagerVerify: 0 # 是否需要审核0不要，1需要
+        signMethod: 1 # 签署方式 0双方签署 1对方签署
+        signVerifyWay: 1 # 签署校验方式 1短信 3刷脸 (仅用于个人)
+        contractTitle: 合同标题
+#        contractNo: ${random.int[1000000,2000000]} # 合同编号，生成随机数
+        contractUrl: https://qiniu.hsbro.cn/1583377961046_1.pdf # 合同URL
+        isUpload: 1 # 是否为临时上传文件 0否 1是
+        caIds: 536 # 乙方签署ID

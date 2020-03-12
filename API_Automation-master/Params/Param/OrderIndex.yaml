@@ -1,0 +1,12 @@
+---
+OrderIndex:
+  dec: 保理1列表
+  parameters:
+  -
+    # 保理1接口
+    url: /work_v2/order/index
+    data:
+      startDate: 2019-03-01
+      endDate: 2020-01-01
+      keywords: 上海幻电信息科技有限公司
+      ticketOverdue: 4 # 票证状态

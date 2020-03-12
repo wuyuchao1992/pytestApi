@@ -1,0 +1,63 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1583486184932" stop="1583486186771">
+  <name>test_Index</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1583486184932" status="passed" stop="1583486185608">
+      <description>
+            用例描述：验证首页统计
+        </description>
+      <name>TestIndex.test_index_01</name>
+      <attachments>
+        <attachment source="032616bd-843b-4f8f-a0bd-ac6e43eed9ed-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="blocker"/>
+        <label name="story" value="Index"/>
+        <label name="feature" value="Home"/>
+        <label name="thread" value="4292-MainThread"/>
+        <label name="host" value="DESKTOP-IK50NUD"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1583486185609" status="passed" stop="1583486186168">
+      <description>
+            用例描述：验证首页按年统计门店数据
+        </description>
+      <name>TestIndex.test_index_02</name>
+      <attachments>
+        <attachment source="7241bf3e-8136-440f-8e8a-a369d86d120c-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="blocker"/>
+        <label name="story" value="Index"/>
+        <label name="feature" value="Home"/>
+        <label name="thread" value="4292-MainThread"/>
+        <label name="host" value="DESKTOP-IK50NUD"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1583486186169" status="passed" stop="1583486186771">
+      <description>
+            用例描述：验证首页按指定统计门店数据
+        </description>
+      <name>TestIndex.test_index_03</name>
+      <attachments>
+        <attachment source="7b636088-180f-4bb8-b341-9d4910c49cbf-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="blocker"/>
+        <label name="story" value="Index"/>
+        <label name="feature" value="Home"/>
+        <label name="thread" value="4292-MainThread"/>
+        <label name="host" value="DESKTOP-IK50NUD"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

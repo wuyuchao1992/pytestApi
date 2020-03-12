@@ -1,0 +1,34 @@
+---
+CreateCa:
+  dec: 新增CA
+  parameters:
+    -
+      url: /work_v2/systemconfig/createCa
+      data:
+        type: 1 # 类型 1企业 2个人
+        companyName: 南京数龙计算机科技有限公司 # 公司名称
+        licenseCode: 91320191674924082C # 工商号
+        corporation: 谢斐 # 法人姓名或个人姓姓名
+        phone: 18925269236
+        idCard: 130635198510286167
+        signName: 吴宇超
+        signPhone: 15976427940
+        signIdCard: 440785199202226310
+        businessLicense: http://qiniu.hsbro.cn/1545898825805_身份证(1).jpg
+        idCardOn: http://qiniu.hsbro.cn/1545898825805_身份证(1).jpg
+        idCardOff: http://qiniu.hsbro.cn/1545898825805_身份证(1).jpg
+        signIdCardOn: http://qiniu.hsbro.cn/1545898825805_身份证(1).jpg
+        signIdCardOff: http://qiniu.hsbro.cn/1545898825805_身份证(1).jpg
+        authorizationLink: http://h5.hsbro.com.cn/ca/auth?_plat=shop # 授权跳转链接
+        authorizationUrl: http://qiniu.hsbro.cn/1545898825805_身份证(1).jpg
+
+    -
+      url: /work_v2/systemconfig/createCa
+      data:
+        type: 2
+        signName: 刘嘉达
+        signPhone: 17817351524
+        signIdCard: 440785199202226310
+        idCardOn: http://qiniu.hsbro.cn/1545898825805_身份证(1).jpg
+        idCardOff: http://qiniu.hsbro.cn/1545898825805_身份证(1).jpg
+        authorizationLink: http://h5.hsbro.com.cn/ca/auth?_plat=shop # 授权跳转链接

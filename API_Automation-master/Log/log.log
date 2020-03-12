@@ -1,0 +1,1039 @@
+[DEBUG 2018-08-31 22:11:43]cookies: {'PPY_AFFSESSID1': 's%3AYC2YCWP7JzDtDheX3QBkhlPA.vCFjK9XxSVlq5ZmAZEJyGW15bLG47i31aKG%2FSwBuORE'}
+[INFO 2019-05-07 16:23:13]初始化配置文件, path=/Users/wangjuan/workpace/API_Automation/Conf/config.ini
+[INFO 2019-05-07 16:23:13]执行用例集为：--allure_features=Home,Personal
+[INFO 2019-05-07 16:24:01]初始化配置文件, path=/Users/wangjuan/workpace/API_Automation/Conf/config.ini
+[INFO 2019-05-07 16:24:01]执行用例集为：--allure_features=Home,Personal
+[INFO 2019-05-07 16:24:19]初始化配置文件, path=/Users/wangjuan/workpace/API_Automation/Conf/config.ini
+[INFO 2019-05-07 16:24:19]执行用例集为：--allure_features=Home,Personal
+[INFO 2019-05-07 16:25:42]初始化配置文件, path=/Users/wangjuan/workpace/API_Automation/Conf/config.ini
+[INFO 2019-05-07 16:25:42]执行用例集为：--allure_features=Home,Personal
+[INFO 2019-05-07 16:26:28]初始化配置文件, path=/Users/wangjuan/workpace/API_Automation/Conf/config.ini
+[INFO 2019-05-07 16:26:28]执行用例集为：--allure_features=Home,Personal
+[INFO 2019-05-07 16:27:08]初始化配置文件, path=/Users/wangjuan/workpace/API_Automation/Conf/config.ini
+[INFO 2019-05-07 16:27:08]执行用例集为：--allure_features=Home,Personal
+[INFO 2019-05-07 16:27:09]解析yaml, Path:/Users/wangjuan/workpace/API_Automation/Params/Yaml/Basic.yaml
+[INFO 2019-05-07 16:27:09]解析yaml, Path:/Users/wangjuan/workpace/API_Automation/Params/Yaml/Collections.yaml
+[INFO 2019-05-07 16:27:09]解析yaml, Path:/Users/wangjuan/workpace/API_Automation/Params/Yaml/Personal.yaml
+[INFO 2019-05-07 16:27:09]解析yaml, Path:/Users/wangjuan/workpace/API_Automation/Params/Yaml/Login.yaml
+[INFO 2019-05-07 16:27:09]解析yaml, Path:/Users/wangjuan/workpace/API_Automation/Params/Yaml/Basic.yaml
+[INFO 2019-05-07 16:27:09]解析yaml, Path:/Users/wangjuan/workpace/API_Automation/Params/Yaml/Collections.yaml
+[INFO 2019-05-07 16:27:09]解析yaml, Path:/Users/wangjuan/workpace/API_Automation/Params/Yaml/Personal.yaml
+[INFO 2019-05-07 16:27:09]解析yaml, Path:/Users/wangjuan/workpace/API_Automation/Params/Yaml/Login.yaml
+[INFO 2019-05-07 16:27:09]解析yaml, Path:/Users/wangjuan/workpace/API_Automation/Params/Yaml/Basic.yaml
+[INFO 2019-05-07 16:27:09]解析yaml, Path:/Users/wangjuan/workpace/API_Automation/Params/Yaml/Collections.yaml
+[INFO 2019-05-07 16:27:09]解析yaml, Path:/Users/wangjuan/workpace/API_Automation/Params/Yaml/Personal.yaml
+[INFO 2019-05-07 16:27:09]解析yaml, Path:/Users/wangjuan/workpace/API_Automation/Params/Yaml/Login.yaml
+[ERROR 2019-05-07 16:27:15]邮件发送失败，请检查邮件配置
+[INFO 2019-05-07 16:28:14]初始化配置文件, path=/Users/wangjuan/workpace/API_Automation/Conf/config.ini
+[INFO 2019-05-07 16:28:14]执行用例集为：--allure_features=Home,Personal
+[INFO 2019-05-07 16:28:15]解析yaml, Path:/Users/wangjuan/workpace/API_Automation/Params/Yaml/Basic.yaml
+[INFO 2019-05-07 16:28:15]解析yaml, Path:/Users/wangjuan/workpace/API_Automation/Params/Yaml/Collections.yaml
+[INFO 2019-05-07 16:28:15]解析yaml, Path:/Users/wangjuan/workpace/API_Automation/Params/Yaml/Personal.yaml
+[INFO 2019-05-07 16:28:15]解析yaml, Path:/Users/wangjuan/workpace/API_Automation/Params/Yaml/Login.yaml
+[INFO 2019-05-07 16:28:16]解析yaml, Path:/Users/wangjuan/workpace/API_Automation/Params/Yaml/Basic.yaml
+[INFO 2019-05-07 16:28:16]解析yaml, Path:/Users/wangjuan/workpace/API_Automation/Params/Yaml/Collections.yaml
+[INFO 2019-05-07 16:28:16]解析yaml, Path:/Users/wangjuan/workpace/API_Automation/Params/Yaml/Personal.yaml
+[INFO 2019-05-07 16:28:16]解析yaml, Path:/Users/wangjuan/workpace/API_Automation/Params/Yaml/Login.yaml
+[INFO 2019-05-07 16:28:16]解析yaml, Path:/Users/wangjuan/workpace/API_Automation/Params/Yaml/Basic.yaml
+[INFO 2019-05-07 16:28:16]解析yaml, Path:/Users/wangjuan/workpace/API_Automation/Params/Yaml/Collections.yaml
+[INFO 2019-05-07 16:28:16]解析yaml, Path:/Users/wangjuan/workpace/API_Automation/Params/Yaml/Personal.yaml
+[INFO 2019-05-07 16:28:16]解析yaml, Path:/Users/wangjuan/workpace/API_Automation/Params/Yaml/Login.yaml
+[ERROR 2019-05-07 16:28:20]邮件发送失败，请检查邮件配置
+[INFO 2019-05-07 16:30:37]初始化配置文件, path=/Users/wangjuan/workpace/API_Automation/Conf/config.ini
+[INFO 2019-05-07 16:30:37]执行用例集为：--allure_features=Home,Personal
+[INFO 2019-05-07 16:30:39]解析yaml, Path:/Users/wangjuan/workpace/API_Automation/Params/Yaml/Basic.yaml
+[INFO 2019-05-07 16:30:39]解析yaml, Path:/Users/wangjuan/workpace/API_Automation/Params/Yaml/Collections.yaml
+[INFO 2019-05-07 16:30:39]解析yaml, Path:/Users/wangjuan/workpace/API_Automation/Params/Yaml/Personal.yaml
+[ERROR 2019-05-07 16:30:44]邮件发送失败，请检查邮件配置
+[INFO 2019-05-07 16:31:07]初始化配置文件, path=/Users/wangjuan/workpace/API_Automation/Conf/config.ini
+[INFO 2019-05-07 16:31:07]执行用例集为：--allure_features=Home,Personal
+[INFO 2019-05-07 16:31:35]初始化配置文件, path=/Users/wangjuan/workpace/API_Automation/Conf/config.ini
+[INFO 2019-05-07 16:31:35]执行用例集为：--allure_features=Home,Personal
+[INFO 2019-05-07 17:04:49]初始化配置文件, path=/Users/wangjuan/workpace/API_Automation/Conf/config.ini
+[INFO 2019-05-07 17:04:49]执行用例集为：--allure_features=Home,Personal
+[INFO 2019-05-07 17:04:50]解析yaml, Path:/Users/wangjuan/workpace/API_Automation/Params/Yaml/Basic.yaml
+[INFO 2019-05-07 17:04:50]解析yaml, Path:/Users/wangjuan/workpace/API_Automation/Params/Yaml/Collections.yaml
+[INFO 2019-05-07 17:04:50]解析yaml, Path:/Users/wangjuan/workpace/API_Automation/Params/Yaml/Personal.yaml
+[ERROR 2019-05-07 17:04:57]邮件发送失败，请检查邮件配置
+[INFO 2019-06-03 16:33:16]初始化配置文件, path=/Users/wangjuan/workpace/API_Automation/Conf/config.ini
+[INFO 2019-06-03 16:33:16]执行用例集为：--allure_features=Home,Personal
+[INFO 2019-06-03 16:33:20]解析yaml, Path:/Users/wangjuan/workpace/API_Automation/Params/Yaml/Basic.yaml
+[ERROR 2019-06-03 16:33:25]邮件发送失败，请检查邮件配置
+[INFO 2020-03-02 16:58:17]初始化配置文件, path=C:\Python35\API_Automation-master\Conf\config.ini
+[INFO 2020-03-02 16:58:18]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-02 16:58:18]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-02 16:58:18]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[ERROR 2020-03-02 16:58:21]邮件发送失败，请检查邮件配置
+[INFO 2020-03-02 17:38:48]初始化配置文件, path=C:\Python35\API_Automation-master\Conf\config.ini
+[INFO 2020-03-02 17:38:50]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[ERROR 2020-03-02 17:38:51]邮件发送失败，请检查邮件配置
+[INFO 2020-03-02 17:55:03]初始化配置文件, path=C:\Python35\API_Automation-master\Conf\config.ini
+[INFO 2020-03-02 17:55:04]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-02 17:55:04]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[ERROR 2020-03-02 17:55:05]邮件发送失败，请检查邮件配置
+[INFO 2020-03-02 17:55:23]初始化配置文件, path=C:\Python35\API_Automation-master\Conf\config.ini
+[INFO 2020-03-02 17:55:24]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-02 17:55:24]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[ERROR 2020-03-02 17:55:25]邮件发送失败，请检查邮件配置
+[INFO 2020-03-02 17:55:37]初始化配置文件, path=C:\Python35\API_Automation-master\Conf\config.ini
+[INFO 2020-03-02 17:55:38]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-02 17:55:38]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-02 17:55:38]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[ERROR 2020-03-02 17:55:47]邮件发送失败，请检查邮件配置
+[DEBUG 2020-03-03 10:55:29]cookies: {'PHPSESSID': 'c25913384df383d530ee0de5c74b417e'}
+[DEBUG 2020-03-03 10:56:00]cookies: {'PHPSESSID': '6ac7be1e6f6f334b756e9e6d89579b14'}
+[DEBUG 2020-03-03 10:56:02]cookies: {'PHPSESSID': 'd8de3ee48633f44e2414548e865ad512'}
+[DEBUG 2020-03-03 10:56:45]cookies: {'PHPSESSID': '1a192f696c1eb052524171f0c2e3d24a'}
+[DEBUG 2020-03-03 10:56:57]cookies: {'PHPSESSID': 'f275a505f4d67fead41b7a845f714c6c'}
+[DEBUG 2020-03-03 11:08:29]cookies: {'PHPSESSID': '4c99322d0d317ffa5bee3248bb74854d'}
+[DEBUG 2020-03-03 14:07:50]【cookies】:PHPSESSID=d27fc628d1893143c96934e68dccdd71; expires=Tue, 03-Mar-2020 08:07:50 GMT; Max-Age=7200; path=/【token】:d27fc628d1893143c96934e68dccdd71【userId】:ef28f4ec1d82233fbec158d32cf0cfbb
+[DEBUG 2020-03-03 14:08:01]【cookies】:PHPSESSID=7e2ef11972f71566a64b553b3cfdd8c3; expires=Tue, 03-Mar-2020 08:08:02 GMT; Max-Age=7200; path=/【token】:7e2ef11972f71566a64b553b3cfdd8c3【userId】:ef28f4ec1d82233fbec158d32cf0cfbb
+[INFO 2020-03-03 14:08:43]-----请求成功-----
+[DEBUG 2020-03-03 14:08:43]【cookies】:PHPSESSID=f51da69c72450ac0a309f465b12ca10a; expires=Tue, 03-Mar-2020 08:08:43 GMT; Max-Age=7200; path=/【token】:f51da69c72450ac0a309f465b12ca10a【userId】:ef28f4ec1d82233fbec158d32cf0cfbb
+[INFO 2020-03-03 16:54:06]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-03 16:54:06]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-03 16:54:06]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-03 16:54:06]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-03 16:54:31]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-03 16:54:31]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-03 16:54:31]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-03 16:54:31]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-03 16:55:41]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-03 16:55:42]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-03 16:55:42]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-03 16:55:42]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-03 16:57:26]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-03 16:57:26]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-03 16:57:26]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-03 16:57:26]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-03 16:59:50]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-03 16:59:50]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-03 16:59:50]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-03 16:59:50]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-03 17:00:34]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-03 17:00:34]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-03 17:00:34]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-03 17:00:34]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-03 17:01:57]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-03 17:01:57]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-03 17:01:57]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-03 17:01:58]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[DEBUG 2020-03-03 17:04:08]【cookies】:PHPSESSID=52082ce247eed457f2f1ed0064cbc6bf; expires=Tue, 03-Mar-2020 11:04:09 GMT; Max-Age=7200; path=/【token】:52082ce247eed457f2f1ed0064cbc6bf【userId】:ef28f4ec1d82233fbec158d32cf0cfbb
+[DEBUG 2020-03-03 17:05:35]【cookies】:PHPSESSID=1e100e6【token】:1e100e6d018f18d7638de5a0812601aa【userId】:ef28f4ec1d82233fbec158d32cf0cfbb
+[DEBUG 2020-03-03 17:05:50]【cookies】:PHPSESSID=57218e0514【token】:57218e05141827449a226b880be0fa70【userId】:ef28f4ec1d82233fbec158d32cf0cfbb
+[DEBUG 2020-03-03 17:05:56]【cookies】:PHPSESSID=516b641a41892fddb3c73b7467697800; expire【token】:516b641a41892fddb3c73b7467697800【userId】:ef28f4ec1d82233fbec158d32cf0cfbb
+[DEBUG 2020-03-03 17:06:14]【cookies】:PHPSESSID=3fe593046f5d20cf7b86d7c3d90fbd52【token】:3fe593046f5d20cf7b86d7c3d90fbd52【userId】:ef28f4ec1d82233fbec158d32cf0cfbb
+[DEBUG 2020-03-03 17:06:18]【cookies】:PHPSESSID=47b368337acb307f6360a372b419193a;【token】:47b368337acb307f6360a372b419193a【userId】:ef28f4ec1d82233fbec158d32cf0cfbb
+[INFO 2020-03-03 17:08:39]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-03 17:08:39]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-03 17:08:39]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-03 17:08:39]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-03 17:10:20]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-03 17:10:20]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-03 17:10:20]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-03 17:10:20]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-03 17:10:57]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-03 17:10:57]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-03 17:10:57]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-03 17:10:57]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-03 17:15:09]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-03 17:15:09]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-03 17:15:09]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-03 17:15:09]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-03 17:18:16]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-03 17:18:16]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-03 17:18:16]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-03 17:18:16]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[DEBUG 2020-03-03 17:42:12]【cookies】:PHPSESSID=905172d4ba36921839cbc2ed460931e9【token】:905172d4ba36921839cbc2ed460931e9【userId】:ef28f4ec1d82233fbec158d32cf0cfbb
+[DEBUG 2020-03-03 17:43:24]【cookies】:PHPSESSID=770359f43ab13a76ec168a566c6648a5【token】:770359f43ab13a76ec168a566c6648a5【userId】:ef28f4ec1d82233fbec158d32cf0cfbb
+[DEBUG 2020-03-03 17:43:26]【cookies】:PHPSESSID=3c39e193f1f5637c8b6daec95afb9205【token】:3c39e193f1f5637c8b6daec95afb9205【userId】:ef28f4ec1d82233fbec158d32cf0cfbb
+[DEBUG 2020-03-03 17:44:55]【cookies】:PHPSESSID=8691f42bf448748b16fbc534a4934292【token】:8691f42bf448748b16fbc534a4934292【userId】:ef28f4ec1d82233fbec158d32cf0cfbb
+[DEBUG 2020-03-03 17:46:16]【cookies】:PHPSESSID=6f1840496d443e2e17d78d797d470886【token】:6f1840496d443e2e17d78d797d470886【userId】:ef28f4ec1d82233fbec158d32cf0cfbb
+[DEBUG 2020-03-03 17:46:26]【cookies】:PHPSESSID=66fc2b3d5ad45ed2cefad5c10fa1b8a5【token】:66fc2b3d5ad45ed2cefad5c10fa1b8a5【userId】:ef28f4ec1d82233fbec158d32cf0cfbb
+[DEBUG 2020-03-03 17:51:36]【cookies】:PHPSESSID=605d780960a1603ce97cca2661f6f420【token】:605d780960a1603ce97cca2661f6f420【userId】:ef28f4ec1d82233fbec158d32cf0cfbb
+[DEBUG 2020-03-03 17:58:24]【cookies】:PHPSESSID=7b2ef9f2b2adafc8641f6ae900374558【token】:7b2ef9f2b2adafc8641f6ae900374558【userId】:ef28f4ec1d82233fbec158d32cf0cfbb
+[DEBUG 2020-03-03 17:59:16]【cookies】:PHPSESSID=c8b547e54a8b3ccf8f3845c44acda1b2【token】:c8b547e54a8b3ccf8f3845c44acda1b2【userId】:ef28f4ec1d82233fbec158d32cf0cfbb
+[DEBUG 2020-03-03 18:02:28]【cookies】:PHPSESSID=2f007fb7918c53e009b13122e80662da【token】:2f007fb7918c53e009b13122e80662da【userId】:ef28f4ec1d82233fbec158d32cf0cfbb
+[DEBUG 2020-03-03 18:03:31]【cookies】:PHPSESSID=5011c873b5cf9c7b021259ad013e3b91【token】:5011c873b5cf9c7b021259ad013e3b91【userId】:ef28f4ec1d82233fbec158d32cf0cfbb
+[DEBUG 2020-03-03 18:25:42]【cookies】:PHPSESSID=23dd5f9a7f2fd7164915c6db3ab798f9【token】:23dd5f9a7f2fd7164915c6db3ab798f9【userId】:ef28f4ec1d82233fbec158d32cf0cfbb
+[DEBUG 2020-03-03 18:35:07]【cookies】:PHPSESSID=a864b556d49b3a5d6ae88e8cef414a46【token】:a864b556d49b3a5d6ae88e8cef414a46【userId】:ef28f4ec1d82233fbec158d32cf0cfbb
+[DEBUG 2020-03-03 18:35:19]【cookies】:PHPSESSID=5325c5b8e20c8c170ba2019a16f85217【token】:5325c5b8e20c8c170ba2019a16f85217【userId】:ef28f4ec1d82233fbec158d32cf0cfbb
+[DEBUG 2020-03-03 18:35:26]【cookies】:PHPSESSID=378f708fd0526bc76f6971e002f57364【token】:378f708fd0526bc76f6971e002f57364【userId】:ef28f4ec1d82233fbec158d32cf0cfbb
+[DEBUG 2020-03-03 18:37:38]【cookies】:PHPSESSID=9b46ec9967b72d6f8c50402bf72b49ee; expires=Tue, 03-Mar-2020 12:37:39 GMT; Max-Age=7200; path=/【token】:9b46ec9967b72d6f8c50402bf72b49ee【userId】:ef28f4ec1d82233fbec158d32cf0cfbb
+[DEBUG 2020-03-03 18:40:59]【cookies】:PHPSESSID=cece76271017992ae155b33f76a55578【token】:cece76271017992ae155b33f76a55578【userId】:ef28f4ec1d82233fbec158d32cf0cfbb
+[DEBUG 2020-03-03 18:41:12]【cookies】:PHPSESSID=627748bf0cc097639fba7d18e8ff503d【token】:627748bf0cc097639fba7d18e8ff503d【userId】:ef28f4ec1d82233fbec158d32cf0cfbb
+[DEBUG 2020-03-03 18:41:18]【cookies】:PHPSESSID=2da23eb72c5665f15add842982db0bdb【token】:2da23eb72c5665f15add842982db0bdb【userId】:ef28f4ec1d82233fbec158d32cf0cfbb
+[DEBUG 2020-03-03 18:48:16]【cookies】:PHPSESSID=df50b6935c769be15d1fe59824dbd384【token】:df50b6935c769be15d1fe59824dbd384【userId】:ef28f4ec1d82233fbec158d32cf0cfbb
+[DEBUG 2020-03-03 18:50:51]【cookies】:PHPSESSID=7dac7a72415bbd897337677e8fad323d【token】:7dac7a72415bbd897337677e8fad323d【userId】:ef28f4ec1d82233fbec158d32cf0cfbb
+[DEBUG 2020-03-03 18:51:33]【cookies】:PHPSESSID=b00042743ae74994fd50d905e9d10242【token】:b00042743ae74994fd50d905e9d10242【userId】:ef28f4ec1d82233fbec158d32cf0cfbb
+[DEBUG 2020-03-03 18:56:41]【cookies】:PHPSESSID=34b49b93b2253010f74647b8e94aa34c【token】:34b49b93b2253010f74647b8e94aa34c【userId】:ef28f4ec1d82233fbec158d32cf0cfbb
+[DEBUG 2020-03-04 08:50:57]【cookies】:PHPSESSID=8764b6d78944faee6035edd4b74e4744【token】:8764b6d78944faee6035edd4b74e4744【userId】:ef28f4ec1d82233fbec158d32cf0cfbb
+[DEBUG 2020-03-04 08:53:26]【cookies】:PHPSESSID=f58429a45425bc7f24c3c6888e4e44d0【token】:f58429a45425bc7f24c3c6888e4e44d0【userId】:ef28f4ec1d82233fbec158d32cf0cfbb
+[DEBUG 2020-03-04 08:53:39]【cookies】:PHPSESSID=75985033c8a5e498d859165336d77f84【token】:75985033c8a5e498d859165336d77f84【userId】:ef28f4ec1d82233fbec158d32cf0cfbb
+[DEBUG 2020-03-04 08:54:39]【cookies】:PHPSESSID=5acabe06750ea04979cb79d50d1709f6【token】:5acabe06750ea04979cb79d50d1709f6【userId】:ef28f4ec1d82233fbec158d32cf0cfbb
+[DEBUG 2020-03-04 08:57:20]【cookies】:PHPSESSID=56804a03c7e43e3322be70f60ebdc64a【token】:56804a03c7e43e3322be70f60ebdc64a【userId】:ef28f4ec1d82233fbec158d32cf0cfbb
+[DEBUG 2020-03-04 08:57:58]【cookies】:PHPSESSID=406c5fad269c126097e1dca2689d2e58【token】:406c5fad269c126097e1dca2689d2e58【userId】:ef28f4ec1d82233fbec158d32cf0cfbb
+[DEBUG 2020-03-04 08:58:43]【cookies】:PHPSESSID=869418506a339fafbe8a28974b9d431b【token】:869418506a339fafbe8a28974b9d431b【userId】:ef28f4ec1d82233fbec158d32cf0cfbb
+[INFO 2020-03-04 09:06:29]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 09:06:29]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 09:06:30]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 09:06:30]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[DEBUG 2020-03-04 09:06:30]【cookies】:PHPSESSID=a7703e115f5389a872e69663001d6fef【token】:a7703e115f5389a872e69663001d6fef【userId】:ef28f4ec1d82233fbec158d32cf0cfbb
+[DEBUG 2020-03-04 09:07:43]【cookies】:PHPSESSID=4deb324af4cfae28f62609dc7ca1a269【token】:4deb324af4cfae28f62609dc7ca1a269【userId】:ef28f4ec1d82233fbec158d32cf0cfbb
+[DEBUG 2020-03-04 09:07:52]【cookies】:PHPSESSID=c58c024f18847911eaaf098f0334a758【token】:c58c024f18847911eaaf098f0334a758【userId】:ef28f4ec1d82233fbec158d32cf0cfbb
+[DEBUG 2020-03-04 09:08:10]【cookies】:PHPSESSID=b27e87934306d900b22f2ca6df35b61e【token】:b27e87934306d900b22f2ca6df35b61e【userId】:ef28f4ec1d82233fbec158d32cf0cfbb
+[DEBUG 2020-03-04 09:08:21]【cookies】:PHPSESSID=0cfec21e952195bee8313555a003397b【token】:0cfec21e952195bee8313555a003397b【userId】:ef28f4ec1d82233fbec158d32cf0cfbb
+[DEBUG 2020-03-04 09:08:22]【cookies】:PHPSESSID=79623e03136ac0995aa2b149584066eb【token】:79623e03136ac0995aa2b149584066eb【userId】:ef28f4ec1d82233fbec158d32cf0cfbb
+[DEBUG 2020-03-04 09:08:33]【cookies】:PHPSESSID=dc175482ce761337f6e14fbc8a2943f0【token】:dc175482ce761337f6e14fbc8a2943f0【userId】:ef28f4ec1d82233fbec158d32cf0cfbb
+[DEBUG 2020-03-04 09:10:49]【cookies】:PHPSESSID=9595e64e833488fba750286552988f63【token】:9595e64e833488fba750286552988f63【userId】:ef28f4ec1d82233fbec158d32cf0cfbb
+[DEBUG 2020-03-04 09:11:54]【cookies】:PHPSESSID=9634c44f035caf1c6e1706c2a68774a5【token】:9634c44f035caf1c6e1706c2a68774a5【userId】:ef28f4ec1d82233fbec158d32cf0cfbb
+[DEBUG 2020-03-04 09:12:29]【cookies】:PHPSESSID=7e181c60c145b6d5102e8f194569d8dc【token】:7e181c60c145b6d5102e8f194569d8dc【userId】:ef28f4ec1d82233fbec158d32cf0cfbb
+[DEBUG 2020-03-04 09:20:06]【cookies】:PHPSESSID=80d173da1d5bd76eb87da598926632ad【token】:80d173da1d5bd76eb87da598926632ad【userId】:ef28f4ec1d82233fbec158d32cf0cfbb
+[DEBUG 2020-03-04 09:20:27]【cookies】:PHPSESSID=d97aad5797930a4c17698383d1313117【token】:d97aad5797930a4c17698383d1313117【userId】:ef28f4ec1d82233fbec158d32cf0cfbb
+[DEBUG 2020-03-04 09:20:42]【cookies】:PHPSESSID=61cfcebc6db95ac90d590b03d13d9f8b【token】:61cfcebc6db95ac90d590b03d13d9f8b【userId】:ef28f4ec1d82233fbec158d32cf0cfbb
+[DEBUG 2020-03-04 09:22:25]【cookies】:PHPSESSID=0814a1c1d8cf4eca7c20658662aca6b4【token】:0814a1c1d8cf4eca7c20658662aca6b4【userId】:ef28f4ec1d82233fbec158d32cf0cfbb
+[DEBUG 2020-03-04 09:22:50]【cookies】:PHPSESSID=95145fdf53778a4e9b7adcc1451767e0【token】:95145fdf53778a4e9b7adcc1451767e0【userId】:ef28f4ec1d82233fbec158d32cf0cfbb
+[DEBUG 2020-03-04 09:25:45]【cookies】:{'PHPSESSID': 'f674af630f73619440dceccfe14956af'}【token】:f674af630f73619440dceccfe14956af【userId】:ef28f4ec1d82233fbec158d32cf0cfbb
+[DEBUG 2020-03-04 09:31:06]【cookies】:{'PHPSESSID': 'a262f5b346919352f38f2ef96b547198'}【token】:a262f5b346919352f38f2ef96b547198【userId】:ef28f4ec1d82233fbec158d32cf0cfbb
+[DEBUG 2020-03-04 09:31:51]【cookies】:{'PHPSESSID': 'ac54ac936db75fbcf91b5383871b2be8'}【token】:ac54ac936db75fbcf91b5383871b2be8【userId】:ef28f4ec1d82233fbec158d32cf0cfbb
+[DEBUG 2020-03-04 09:35:42]【cookies】:{'PHPSESSID': 'cffdcba7579b020892546907377f0bed'}【token】:cffdcba7579b020892546907377f0bed【userId】:ef28f4ec1d82233fbec158d32cf0cfbb
+[DEBUG 2020-03-04 09:37:11]【cookies】:{}【token】:4fd9de0a3fcda1fb2f3b463ccf6a4826【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-04 09:37:43]【cookies】:{}【token】:987ff343dfd698ebcfb0d007d0debeec【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[INFO 2020-03-04 09:38:02]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 09:38:02]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 09:38:02]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 09:38:02]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[DEBUG 2020-03-04 09:38:03]【cookies】:{}【token】:580421ed8c4c44605412d68da27d6e1f【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[INFO 2020-03-04 09:38:53]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 09:38:53]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 09:38:53]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 09:38:53]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[DEBUG 2020-03-04 09:38:54]【cookies】:{}【token】:24af389eade1e055b05dd8706d8cd4b3【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[INFO 2020-03-04 09:44:21]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 09:44:21]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 09:44:21]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 09:44:21]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[DEBUG 2020-03-04 09:44:21]【cookies】:{}【token】:428496a73865677337b9757d505a7c22【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-04 09:44:22]【cookies】:{}【token】:f062238d66638b70702330153ff7d6fe【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[ERROR 2020-03-04 09:44:22]Response body msg != expected_msg, expected_msg is 继续操作前请注册或者登录., body_msg is error
+[INFO 2020-03-04 09:49:13]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 09:49:13]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 09:49:13]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 09:49:13]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[DEBUG 2020-03-04 09:49:14]【cookies】:{}【token】:9e8e489d2f818ee98ea065bea0ccb3c2【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-04 09:49:14]【cookies】:{}【token】:c136d2e116af3027552ddae724de091e【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[ERROR 2020-03-04 09:49:15]Response time > expected_time, expected_time is 100, time is 267.484
+[INFO 2020-03-04 09:49:30]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 09:49:30]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 09:49:30]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 09:49:30]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[DEBUG 2020-03-04 09:49:31]【cookies】:{}【token】:8d5267b3237b195bf1d97ab610a095d3【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-04 09:49:31]【cookies】:{}【token】:a59dab7f82f156176ceefb01dcdb9739【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[ERROR 2020-03-04 09:49:31]Response body msg != expected_msg, expected_msg is 请求成功1, body_msg is message
+[INFO 2020-03-04 09:50:01]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 09:50:01]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 09:50:01]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 09:50:01]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[DEBUG 2020-03-04 09:50:02]【cookies】:{}【token】:1f8d4d988e59a04e3e61ba638f4850ad【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-04 09:50:02]【cookies】:{}【token】:1d935d5ee54d2e868247612e527daf59【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[ERROR 2020-03-04 09:50:03]Response time > expected_time, expected_time is 100, time is 258.794
+[INFO 2020-03-04 09:50:31]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 09:50:31]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 09:50:31]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 09:50:31]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[DEBUG 2020-03-04 09:50:32]【cookies】:{}【token】:a370999e3657dbe3a9b918752f3b5fed【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-04 09:50:32]【cookies】:{}【token】:062515b69182f7ec3593ce7e0ab35a1e【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[ERROR 2020-03-04 09:50:33]Response time > expected_time, expected_time is 10, time is 204.094
+[INFO 2020-03-04 09:50:49]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 09:50:49]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 09:50:49]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 09:50:49]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[DEBUG 2020-03-04 09:50:49]【cookies】:{}【token】:d7ab901ea50df98c37a83595dd96aac5【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-04 09:50:50]【cookies】:{}【token】:d0897c308852788726150ed7bdb6e25e【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[INFO 2020-03-04 10:20:24]初始化配置文件, path=C:\Python35\API_Automation-master\Conf\config.ini
+[INFO 2020-03-04 10:20:25]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 10:20:25]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 10:20:25]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 10:20:25]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[DEBUG 2020-03-04 10:20:26]【cookies】:{}【token】:f34d3b2c62e958a504481cd86b032224【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-04 10:20:26]【cookies】:{}【token】:a1490ba72a6a15db8807133a12c2c15b【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-04 10:20:27]【cookies】:{}【token】:aa20143d7880d0c9f4eee3f491771775【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-04 10:20:27]【cookies】:{}【token】:67c583ba3e11ed341d737161d09f2e9a【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[INFO 2020-03-04 10:22:05]初始化配置文件, path=C:\Python35\API_Automation-master\Conf\config.ini
+[INFO 2020-03-04 10:22:06]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 10:22:06]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 10:22:06]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 10:22:06]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[DEBUG 2020-03-04 10:22:06]【cookies】:{}【token】:3a4c578889b64bfb7e3797d2322c21dd【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-04 10:22:07]【cookies】:{}【token】:466c57c02fac60ef93967ac0bce0209a【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[INFO 2020-03-04 10:22:10]邮件发送成功
+[INFO 2020-03-04 10:29:47]初始化配置文件, path=C:\Python35\API_Automation-master\Conf\config.ini
+[INFO 2020-03-04 10:29:47]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 10:29:47]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 10:29:48]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 10:29:48]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[DEBUG 2020-03-04 10:29:48]【cookies】:{}【token】:d016a710e8dbb9953f6f77fd29ed65ce【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-04 10:29:49]【cookies】:{}【token】:9edad56b50bc4ecd19a86d3008330063【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[INFO 2020-03-04 10:29:50]邮件发送成功
+[INFO 2020-03-04 10:32:12]初始化配置文件, path=C:\Python35\API_Automation-master\Conf\config.ini
+[INFO 2020-03-04 10:32:12]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 10:32:12]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 10:32:12]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 10:32:12]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[DEBUG 2020-03-04 10:32:13]【cookies】:{}【token】:d165f2df7738c067f51bc87c4fa207e9【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-04 10:32:14]【cookies】:{}【token】:a421dc36af244c632f63c4f1b2b0807c【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[INFO 2020-03-04 10:32:17]邮件发送成功
+[INFO 2020-03-04 10:44:48]初始化配置文件, path=C:\Python35\API_Automation-master\Conf\config.ini
+[INFO 2020-03-04 10:44:48]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 10:44:48]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 10:44:48]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 10:44:48]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[DEBUG 2020-03-04 10:44:49]【cookies】:{}【token】:86fa4acfe5de0de4362f788de5824417【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-04 10:44:50]【cookies】:{}【token】:0ee67963384f2a0f8e1d48307075e207【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[INFO 2020-03-04 10:44:51]邮件发送成功
+[DEBUG 2020-03-04 11:08:06]【cookies】:{}【token】:653af225ca61ea7432921ce9882ee82b【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-04 11:08:13]【cookies】:{}【token】:070973c10c502d936e28dcd821be70b6【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[ERROR 2020-03-04 11:09:40]get cookies error, please checkout!!!
+[ERROR 2020-03-04 11:10:01]get cookies error, please checkout!!!
+[ERROR 2020-03-04 11:10:27]get cookies error, please checkout!!!
+[INFO 2020-03-04 11:10:31]初始化配置文件, path=C:\Python35\API_Automation-master\Conf\config.ini
+[INFO 2020-03-04 11:10:31]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 11:10:31]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 11:10:31]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 11:10:31]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[ERROR 2020-03-04 11:10:32]get cookies error, please checkout!!!
+[ERROR 2020-03-04 11:10:32]get cookies error, please checkout!!!
+[INFO 2020-03-04 11:10:34]邮件发送成功
+[INFO 2020-03-04 11:11:21]初始化配置文件, path=C:\Python35\API_Automation-master\Conf\config.ini
+[INFO 2020-03-04 11:11:22]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 11:11:22]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 11:11:22]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 11:11:22]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[ERROR 2020-03-04 11:11:22]get cookies error, please checkout!!!
+[ERROR 2020-03-04 11:11:22]get cookies error, please checkout!!!
+[INFO 2020-03-04 11:11:25]邮件发送成功
+[INFO 2020-03-04 11:23:58]初始化配置文件, path=C:\Python35\API_Automation-master\Conf\config.ini
+[INFO 2020-03-04 11:23:59]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 11:23:59]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 11:23:59]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 11:23:59]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[ERROR 2020-03-04 11:23:59]get cookies error, please checkout!!!
+[ERROR 2020-03-04 11:23:59]get cookies error, please checkout!!!
+[INFO 2020-03-04 11:24:02]邮件发送成功
+[ERROR 2020-03-04 11:25:09]get cookies error, please checkout!!!
+[ERROR 2020-03-04 11:32:55]get cookies error, please checkout!!!
+[ERROR 2020-03-04 11:33:19]get cookies error, please checkout!!!
+[ERROR 2020-03-04 11:39:48]get cookies error, please checkout!!!
+[ERROR 2020-03-04 11:40:30]get cookies error, please checkout!!!
+[ERROR 2020-03-04 11:41:33]get cookies error, please checkout!!!
+[ERROR 2020-03-04 11:41:39]get cookies error, please checkout!!!
+[DEBUG 2020-03-04 11:50:16]【cookies】:{}【token】:2e05d44c8aa0d8740d3f3062775c7ba0【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[INFO 2020-03-04 11:50:24]初始化配置文件, path=C:\Python35\API_Automation-master\Conf\config.ini
+[INFO 2020-03-04 11:50:25]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 11:50:25]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 11:50:25]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 11:50:25]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[DEBUG 2020-03-04 11:50:25]【cookies】:{}【token】:8a7e622740ef6d40a5a541902d47834b【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-04 11:50:26]【cookies】:{}【token】:53fa2a28de63fd67070274a07b47eb4d【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[INFO 2020-03-04 11:50:27]邮件发送成功
+[INFO 2020-03-04 11:50:43]初始化配置文件, path=C:\Python35\API_Automation-master\Conf\config.ini
+[INFO 2020-03-04 11:50:44]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 11:50:44]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 11:50:44]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 11:50:44]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[DEBUG 2020-03-04 11:50:45]【cookies】:{}【token】:d26261ccb74503936e9b881e7091c6ed【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-04 11:50:45]【cookies】:{}【token】:d8bf6fd45126bd35fea285c1c1b26e81【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[ERROR 2020-03-04 11:50:45]Response time > expected_time, expected_time is 250, time is 264.877
+[INFO 2020-03-04 11:50:46]邮件发送成功
+[INFO 2020-03-04 11:51:12]初始化配置文件, path=C:\Python35\API_Automation-master\Conf\config.ini
+[INFO 2020-03-04 11:51:13]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 11:51:13]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 11:51:13]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 11:51:13]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[DEBUG 2020-03-04 11:51:13]【cookies】:{}【token】:3c7041b23766768116498733306d769f【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-04 11:51:14]【cookies】:{}【token】:79bbdb24745fbb468f8be7c05a339972【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[INFO 2020-03-04 11:51:15]邮件发送成功
+[INFO 2020-03-04 11:51:23]初始化配置文件, path=C:\Python35\API_Automation-master\Conf\config.ini
+[INFO 2020-03-04 11:51:23]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 11:51:23]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 11:51:23]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 11:51:23]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[DEBUG 2020-03-04 11:51:24]【cookies】:{}【token】:20265588c8903f5dda3e00f9a01bba89【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-04 11:51:25]【cookies】:{}【token】:6a62a5f136c87855be580be97d1d032f【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[ERROR 2020-03-04 11:51:25]statusCode error, expected_code is 201, statusCode is 200 
+[INFO 2020-03-04 11:51:26]邮件发送成功
+[INFO 2020-03-04 15:00:49]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 15:00:49]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 15:00:49]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 15:00:49]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-04 15:00:49]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[DEBUG 2020-03-04 15:00:50]【cookies】:{}【token】:65b1862b5d13c0a281bae73fadfb079b【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-04 15:00:50]【cookies】:{}【token】:041c95325dc882a35eb9dc10eb4d93b9【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[INFO 2020-03-04 15:02:28]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 15:02:28]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 15:02:28]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 15:02:28]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-04 15:02:28]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[DEBUG 2020-03-04 15:02:29]【cookies】:{}【token】:1fbc8aa355b93543111307f81fabd1c3【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-04 15:02:29]【cookies】:{}【token】:dcc39cec631f56773f8244b531bf738f【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[ERROR 2020-03-04 15:02:29]Response body msg != expected_msg, expected_msg is 请求成功, body_msg is message
+[INFO 2020-03-04 15:05:09]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 15:05:09]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 15:05:09]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 15:05:09]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-04 15:05:09]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[DEBUG 2020-03-04 15:05:10]【cookies】:{}【token】:e3f771ea3070141e8f95d76f3f44eb93【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-04 15:05:10]【cookies】:{}【token】:6f7de6322f155266cbad8495738c8fb9【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[INFO 2020-03-04 15:09:59]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 15:09:59]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 15:09:59]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 15:10:00]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-04 15:10:00]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[DEBUG 2020-03-04 15:10:00]【cookies】:{}【token】:dee528d071ccbad91b93b6c0288f2c97【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-04 15:10:01]【cookies】:{}【token】:b2dd9cf3c30ae972d3cb9654e334ebdf【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[ERROR 2020-03-04 15:10:01]Response body msg != expected_msg, expected_msg is 请求成功, body_msg is message
+[INFO 2020-03-04 15:10:34]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 15:10:34]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 15:10:34]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 15:10:34]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-04 15:10:34]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[DEBUG 2020-03-04 15:10:35]【cookies】:{}【token】:b7edd1b654b37fcdf5276f0f3a7715e5【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-04 15:10:35]【cookies】:{}【token】:49c208b012a15f42fcc5b49d79cc6ba4【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[ERROR 2020-03-04 15:10:35]Response body msg != expected_msg, expected_msg is 请求成功, body_msg is message
+[INFO 2020-03-04 15:10:49]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 15:10:49]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 15:10:49]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 15:10:49]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-04 15:10:49]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[DEBUG 2020-03-04 15:10:49]【cookies】:{}【token】:a065601259d6f914a9e1a571b754381b【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-04 15:10:50]【cookies】:{}【token】:6d408073ea1d0b206ea34cde2037f7fd【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[ERROR 2020-03-04 15:10:50]Response body msg != expected_msg, expected_msg is 请求成功, body_msg is message
+[INFO 2020-03-04 15:11:17]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 15:11:17]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 15:11:17]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 15:11:17]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-04 15:11:17]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-04 15:12:13]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 15:12:13]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 15:12:13]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 15:12:13]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-04 15:12:13]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-04 15:14:54]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 15:14:54]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 15:14:54]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 15:14:54]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-04 15:14:55]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-04 15:17:15]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 15:17:15]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 15:17:15]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 15:17:15]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-04 15:17:15]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-04 15:19:35]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 15:19:35]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 15:19:35]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 15:19:35]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-04 15:19:35]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[DEBUG 2020-03-04 15:19:36]【cookies】:{}【token】:9704c92b3ba3be60febd01cf8eb74f21【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-04 15:19:36]【cookies】:{}【token】:c7df7495382032b86f19105b24fc4c11【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[ERROR 2020-03-04 15:19:36]statusCode error, expected_code is 200, statusCode is 500 
+[INFO 2020-03-04 15:20:59]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 15:20:59]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 15:20:59]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 15:20:59]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-04 15:20:59]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[DEBUG 2020-03-04 15:20:59]【cookies】:{}【token】:45d38b860e217be3c2e4d40aeb7b34c7【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-04 15:21:00]【cookies】:{}【token】:7c525f5f47aab122e40f6c6d75ac6c6c【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[INFO 2020-03-04 15:23:11]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 15:23:11]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 15:23:11]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 15:23:11]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-04 15:23:11]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-04 15:23:19]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 15:23:19]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 15:23:19]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 15:23:19]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-04 15:23:19]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-04 15:31:46]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 15:31:46]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 15:31:46]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 15:31:46]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-04 15:31:46]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-04 15:32:44]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 15:32:44]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 15:32:44]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 15:32:44]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-04 15:32:44]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[DEBUG 2020-03-04 15:32:44]【cookies】:{}【token】:05824525b345a05d8c50c32a37e13c51【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-04 15:32:45]【cookies】:{}【token】:86967212ce6639af4440edc296e170c2【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[INFO 2020-03-04 15:33:36]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 15:33:36]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 15:33:36]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 15:33:36]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-04 15:33:36]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[DEBUG 2020-03-04 15:33:37]【cookies】:{}【token】:b0c2a6c0264de275e55a06274b609caa【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-04 15:33:37]【cookies】:{}【token】:a15f5e978ba98668cb6f5dc9aeaf7354【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[INFO 2020-03-04 15:34:32]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 15:34:32]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 15:34:32]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 15:34:32]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-04 15:34:32]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[DEBUG 2020-03-04 15:34:32]【cookies】:{}【token】:55f272e584a624bb6ed0d15234b6c28f【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-04 15:34:33]【cookies】:{}【token】:f6ea4335fe9e322c3cdd9417e8b878c4【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[INFO 2020-03-04 15:34:59]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 15:34:59]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 15:34:59]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 15:34:59]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-04 15:34:59]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[DEBUG 2020-03-04 15:35:00]【cookies】:{}【token】:b94026e9df93bee6f3cc5b4fb876acd2【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-04 15:35:01]【cookies】:{}【token】:1486b22f63ddfda61fb734c5fd96ccdf【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[INFO 2020-03-04 15:39:48]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 15:39:48]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 15:39:48]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 15:39:48]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-04 15:39:48]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[DEBUG 2020-03-04 15:39:48]【cookies】:{}【token】:409f76fe39f96cba521e7d1abc719f09【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-04 15:39:49]【cookies】:{}【token】:92efe3d66ace24f2b910ff2db0bdd2b7【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[INFO 2020-03-04 15:40:11]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 15:40:11]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 15:40:11]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 15:40:11]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-04 15:40:11]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[DEBUG 2020-03-04 15:40:11]【cookies】:{}【token】:007fedb91b44400a31070036af6cabfd【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-04 15:40:12]【cookies】:{}【token】:a5e92225344006559405f151ca0d21ad【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[INFO 2020-03-04 15:41:19]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 15:41:19]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 15:41:19]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 15:41:19]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-04 15:41:19]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[DEBUG 2020-03-04 15:41:20]【cookies】:{}【token】:769ab3dc9119b8acf3698164748f2760【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-04 15:41:20]【cookies】:{}【token】:95610363a5238774dc32fd7005b89737【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[INFO 2020-03-04 15:41:58]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 15:41:58]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 15:41:58]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 15:41:58]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-04 15:41:58]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[DEBUG 2020-03-04 15:41:59]【cookies】:{}【token】:cac1359bd571d90fd44281b8d3115648【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-04 15:41:59]【cookies】:{}【token】:a8024b5989c49664d0959c80961ae68e【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[INFO 2020-03-04 15:42:11]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 15:42:11]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 15:42:11]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 15:42:11]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-04 15:42:11]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[DEBUG 2020-03-04 15:42:12]【cookies】:{}【token】:da3d841b9b38ed1ac0ae0cd750b2ca00【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-04 15:42:12]【cookies】:{}【token】:e60805a6976983e32b4328c630335d78【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[INFO 2020-03-04 15:42:55]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 15:42:55]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 15:42:55]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 15:42:55]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-04 15:42:55]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[DEBUG 2020-03-04 15:42:56]【cookies】:{}【token】:81eb4bc5c0e0b20c947787484906c2e8【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-04 15:42:56]【cookies】:{}【token】:92644bb3ec5e769d94b9154e406c7bd4【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[INFO 2020-03-04 15:49:25]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 15:49:25]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 15:49:25]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 15:49:25]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-04 15:49:25]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-04 15:50:57]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 15:50:57]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 15:50:57]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 15:50:57]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-04 15:50:57]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-04 15:51:12]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 15:51:12]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 15:51:12]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 15:51:12]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-04 15:51:12]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[DEBUG 2020-03-04 15:51:12]【cookies】:{}【token】:6c7f86815bf27b123efa1a6f02a4bca5【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[INFO 2020-03-04 15:52:52]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 15:52:52]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 15:52:52]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 15:52:52]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-04 15:52:52]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[DEBUG 2020-03-04 15:52:53]【cookies】:{}【token】:d6a1bfb40aa8ed70817b584e11c959df【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[INFO 2020-03-04 15:53:14]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 15:53:14]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 15:53:14]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 15:53:14]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-04 15:53:14]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[DEBUG 2020-03-04 15:53:15]【cookies】:{}【token】:d7f7c6537ee76adcfdaf8d92fcf11640【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[INFO 2020-03-04 15:53:24]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 15:53:24]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 15:53:24]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 15:53:24]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-04 15:53:24]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[DEBUG 2020-03-04 15:53:24]【cookies】:{}【token】:c5efcfbbf1eeea6c65b948579df59c6e【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[INFO 2020-03-04 15:57:39]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 15:57:39]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 15:57:39]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 15:57:39]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-04 15:57:39]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[DEBUG 2020-03-04 15:57:39]【cookies】:{}【token】:123e6eea1bdefab1f908d36657e582f4【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[INFO 2020-03-04 15:58:07]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 15:58:07]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 15:58:07]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 15:58:07]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-04 15:58:07]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[DEBUG 2020-03-04 15:58:07]【cookies】:{}【token】:407a4e77d24bd762eeb330fdc2d1e129【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[INFO 2020-03-04 15:59:48]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 15:59:48]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 15:59:48]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 15:59:48]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-04 15:59:49]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[DEBUG 2020-03-04 15:59:49]【cookies】:{}【token】:73d9b7f99565685d51af7e95ff5ddde2【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[INFO 2020-03-04 16:01:04]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 16:01:04]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 16:01:04]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 16:01:04]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-04 16:01:04]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[DEBUG 2020-03-04 16:01:04]【cookies】:{}【token】:ad90d6b47aeb7419c4cfdba1bd3fddc4【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[INFO 2020-03-04 16:01:13]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 16:01:13]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 16:01:13]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 16:01:13]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-04 16:01:13]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[DEBUG 2020-03-04 16:01:13]【cookies】:{}【token】:ac6f274e0cd2de20a96b83e609bc5037【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[INFO 2020-03-04 16:02:06]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 16:02:06]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 16:02:07]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 16:02:07]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-04 16:02:07]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[DEBUG 2020-03-04 16:02:07]【cookies】:{}【token】:810fbf1c376035291dcf72a022372fd5【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[INFO 2020-03-04 16:10:42]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 16:10:42]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 16:10:42]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 16:10:42]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-04 16:10:42]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[DEBUG 2020-03-04 16:10:43]【cookies】:{}【token】:6401a18c4d86665b0d794bcb579f050e【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-04 16:10:43]【cookies】:{}【token】:8a7fa495347789220e22002bca9b9017【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[ERROR 2020-03-04 16:10:44]Response body msg != expected_msg, expected_msg is 请求成功, body_msg is message
+[INFO 2020-03-04 17:34:29]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 17:34:29]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 17:34:29]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 17:34:29]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-04 17:34:30]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[DEBUG 2020-03-04 17:34:30]【cookies】:{}【token】:99241aecbd8ad19b253b07af7c3aba07【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-04 17:34:31]【cookies】:{}【token】:b376f9a59de7fe5694a8df0cb835bfe1【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[ERROR 2020-03-04 17:34:31]Response body msg != expected_msg, expected_msg is 请求成功, body_msg is message
+[INFO 2020-03-04 17:34:57]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 17:34:57]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 17:34:57]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 17:34:57]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-04 17:34:57]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[DEBUG 2020-03-04 17:34:57]【cookies】:{}【token】:10de99f520e55301d8c820683a400f6f【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-04 17:35:00]【cookies】:{}【token】:53af3a77b11ebf1c10141c7dbb5cb64a【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[ERROR 2020-03-04 17:35:01]Response body msg != expected_msg, expected_msg is 请求成功, body_msg is message
+[INFO 2020-03-04 17:36:53]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 17:36:53]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 17:36:53]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 17:36:53]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-04 17:36:53]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[DEBUG 2020-03-04 17:36:54]【cookies】:{}【token】:231b519ae80fe71c65c4ad2f61b0be5c【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-04 17:37:00]【cookies】:{}【token】:4a798220cbcc393431f808ff07e81f70【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[ERROR 2020-03-04 17:37:00]Response body msg != expected_msg, expected_msg is 请求成功, body_msg is message
+[INFO 2020-03-04 17:37:43]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 17:37:43]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 17:37:43]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 17:37:43]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-04 17:37:43]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[DEBUG 2020-03-04 17:37:43]【cookies】:{}【token】:68829ae8fd13f86213e560cb15872e5a【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[ERROR 2020-03-04 17:37:48]Response body msg != expected_msg, expected_msg is 请求成功, body_msg is message
+[INFO 2020-03-04 17:38:16]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 17:38:16]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 17:38:16]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 17:38:16]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-04 17:38:16]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[DEBUG 2020-03-04 17:38:17]【cookies】:{}【token】:c2502def7122b809c0238793a3d86819【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[ERROR 2020-03-04 17:38:20]Response time > expected_time, expected_time is 300, time is 796.114
+[INFO 2020-03-04 17:38:42]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-04 17:38:42]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-04 17:38:42]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-04 17:38:42]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-04 17:38:42]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[DEBUG 2020-03-04 17:38:42]【cookies】:{}【token】:7be80e64ddcdcd3ae7231e4200f2fd9a【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[INFO 2020-03-05 10:58:36]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-05 10:58:36]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-05 10:58:36]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-05 10:58:36]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-05 10:58:36]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-05 10:59:14]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-05 10:59:14]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-05 10:59:14]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-05 10:59:14]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-05 10:59:14]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[DEBUG 2020-03-05 10:59:15]【cookies】:{}【token】:c276a7f600e2aceba4fd532554cd838a【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[ERROR 2020-03-05 10:59:15]Response body msg != expected_msg, expected_msg is CA申请信息提交成功, body_msg is message
+[DEBUG 2020-03-05 10:59:15]【cookies】:{}【token】:971ddb8f816907efc575f03f2781f201【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[ERROR 2020-03-05 10:59:16]Response body msg != expected_msg, expected_msg is CA申请信息提交成功, body_msg is message
+[INFO 2020-03-05 11:01:37]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-05 11:01:37]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-05 11:01:37]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-05 11:01:37]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-05 11:01:37]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[DEBUG 2020-03-05 11:01:37]【cookies】:{}【token】:dde66229b150b49f257ef3f682109fdb【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[ERROR 2020-03-05 11:01:37]Response body msg != expected_msg, expected_msg is CA申请信息提交成功, body_msg is message
+[DEBUG 2020-03-05 11:01:38]【cookies】:{}【token】:0bb984c50156fc2a29e7c1db31da1b6e【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[ERROR 2020-03-05 11:01:38]Response body msg != expected_msg, expected_msg is CA申请信息提交成功, body_msg is message
+[INFO 2020-03-05 11:03:03]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-05 11:03:03]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-05 11:03:03]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-05 11:03:03]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-05 11:03:03]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[DEBUG 2020-03-05 11:03:04]【cookies】:{}【token】:7158fd3b7de267b8350d250163a13bec【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[ERROR 2020-03-05 11:03:04]Response body msg != expected_msg, expected_msg is CA申请信息提交成功, body_msg is message
+[DEBUG 2020-03-05 11:03:04]【cookies】:{}【token】:7c0ac0c6b71bb93af8199870cf4ac563【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[INFO 2020-03-05 11:04:52]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-05 11:04:52]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-05 11:04:52]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-05 11:04:52]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-05 11:04:52]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[DEBUG 2020-03-05 11:04:53]【cookies】:{}【token】:b89c6c126c4417699422dae03e3ea9e4【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[ERROR 2020-03-05 11:04:53]Response body msg != expected_msg, expected_msg is CA申请信息提交成功, body_msg is message
+[DEBUG 2020-03-05 11:04:53]【cookies】:{}【token】:b729e0dd71ba5aa513b687842590e27b【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[INFO 2020-03-05 11:09:00]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-05 11:09:00]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-05 11:09:00]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-05 11:09:00]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-05 11:09:00]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[DEBUG 2020-03-05 11:09:01]【cookies】:{}【token】:660da3383ed69f08ea9d3013246714ed【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[ERROR 2020-03-05 11:09:01]Response body msg != expected_msg, expected_msg is CA申请信息提交成功, body_msg is message
+[DEBUG 2020-03-05 11:09:01]【cookies】:{}【token】:faa2ac9f5b64d920077d8f2e329d3f03【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[ERROR 2020-03-05 11:09:03]Response body msg != expected_msg, expected_msg is CA申请信息提交成功, body_msg is message
+[INFO 2020-03-05 11:09:14]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-05 11:09:14]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-05 11:09:14]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-05 11:09:14]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-05 11:09:14]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[DEBUG 2020-03-05 11:09:15]【cookies】:{}【token】:4457c0cacc445071c23973385ee8e194【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[ERROR 2020-03-05 11:09:15]Response body msg != expected_msg, expected_msg is CA申请信息提交成功, body_msg is message
+[DEBUG 2020-03-05 11:09:15]【cookies】:{}【token】:2aa38edd5c98009b31d2f554e6d276c3【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[ERROR 2020-03-05 11:09:19]Response body msg != expected_msg, expected_msg is CA申请信息提交成功, body_msg is message
+[INFO 2020-03-05 11:10:48]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-05 11:10:48]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-05 11:10:48]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-05 11:10:48]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-05 11:10:48]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[DEBUG 2020-03-05 11:10:49]【cookies】:{}【token】:b35d73fbdf9a194b304eea4cf3245c7b【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[ERROR 2020-03-05 11:10:49]Response body msg != expected_msg, expected_msg is CA申请信息提交成功, body_msg is message
+[DEBUG 2020-03-05 11:10:49]【cookies】:{}【token】:921d4f4150671275d8d5ba127d8540f9【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[ERROR 2020-03-05 11:10:51]Response body msg != expected_msg, expected_msg is CA申请信息提交成功, body_msg is message
+[INFO 2020-03-05 11:11:51]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Basic.yaml
+[INFO 2020-03-05 11:11:51]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Collections.yaml
+[INFO 2020-03-05 11:11:51]解析yaml, Path:C:\Python35\API_Automation-master/Params/Yaml/Personal.yaml
+[INFO 2020-03-05 11:11:51]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-05 11:11:51]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[DEBUG 2020-03-05 11:11:52]【cookies】:{}【token】:1bc16d20489d640082b0c28d709fec44【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[ERROR 2020-03-05 11:11:52]Response body msg != expected_msg, expected_msg is CA申请信息提交成功, body_msg is message
+[DEBUG 2020-03-05 11:11:52]【cookies】:{}【token】:cf9a4299baf67993ac41c7cc3a88e5f1【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[ERROR 2020-03-05 11:11:56]Response body msg != expected_msg, expected_msg is 实名信息不一致，请检查后重新认证, body_msg is message
+[INFO 2020-03-05 15:50:24]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-05 15:50:24]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-05 15:50:55]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-05 15:50:55]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-05 15:51:41]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-05 15:51:41]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-05 15:52:04]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-05 15:52:04]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-05 15:52:04]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/IndependentContract.yaml
+[DEBUG 2020-03-05 15:52:05]【cookies】:{}【token】:96fcecce258f8bd4482538ac07385e1c【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[ERROR 2020-03-05 15:52:06]Response body msg != expected_msg, expected_msg is 发起独立合同成功, body_msg is message
+[DEBUG 2020-03-05 15:52:06]【cookies】:{}【token】:10f6323d53121c88e47f58a08a92caf0【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[ERROR 2020-03-05 15:52:06]Response body msg != expected_msg, expected_msg is 发起独立合同成功, body_msg is message
+[INFO 2020-03-05 15:54:26]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-05 15:54:26]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-05 15:54:26]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/IndependentContract.yaml
+[DEBUG 2020-03-05 15:54:27]【cookies】:{}【token】:d9cf56d6f53ddf8121702de58df90b70【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[ERROR 2020-03-05 15:54:27]Response body msg != expected_msg, expected_msg is 发起独立合同成功, body_msg is message
+[DEBUG 2020-03-05 15:54:27]【cookies】:{}【token】:fa9f0563c8c3af2f2c4361aea7f4ba9f【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[ERROR 2020-03-05 15:54:28]Response body msg != expected_msg, expected_msg is 发起独立合同成功, body_msg is message
+[INFO 2020-03-05 16:08:07]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-05 16:08:07]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-05 16:08:07]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/IndependentContract.yaml
+[DEBUG 2020-03-05 16:08:08]【cookies】:{}【token】:64d96cc78dc1d622daa8156462646deb【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-05 16:08:10]【cookies】:{}【token】:9ce3b1dc231d2e50f8729e980e6e4e40【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[INFO 2020-03-06 10:13:18]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Detail.yaml
+[INFO 2020-03-06 10:13:18]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-06 10:13:18]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/IndependentContract.yaml
+[DEBUG 2020-03-06 10:13:19]【cookies】:{}【token】:053adcdf191aea57d115088fa31db9fa【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-06 10:13:22]【cookies】:{}【token】:59514ee6c923e1f58aa333f70d493a56【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[INFO 2020-03-06 14:53:26]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Admin.yaml
+[INFO 2020-03-06 14:53:53]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Admin.yaml
+[INFO 2020-03-06 14:53:53]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-06 14:53:53]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/IndependentContract.yaml
+[DEBUG 2020-03-06 14:53:54]【cookies】:{}【token】:faf34e650596bf6b1e09d4fc03a5697d【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[INFO 2020-03-06 14:54:53]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Admin.yaml
+[INFO 2020-03-06 14:54:53]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-06 14:54:53]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/IndependentContract.yaml
+[DEBUG 2020-03-06 14:54:54]【cookies】:{}【token】:e1080079ee9436e48a81c632fbd91f50【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[INFO 2020-03-06 14:56:18]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Admin.yaml
+[INFO 2020-03-06 14:56:18]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-06 14:56:18]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/IndependentContract.yaml
+[DEBUG 2020-03-06 14:56:18]【cookies】:{}【token】:5a1b1af445fcf3947665f5f67e87f872【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[ERROR 2020-03-06 14:56:19]Response time > expected_time, expected_time is 300, time is 494.773
+[INFO 2020-03-06 14:56:38]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Admin.yaml
+[INFO 2020-03-06 14:56:38]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-06 14:56:38]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/IndependentContract.yaml
+[DEBUG 2020-03-06 14:56:38]【cookies】:{}【token】:78ad89580736dd803c67679e78ee8b7e【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[ERROR 2020-03-06 14:56:39]Response body msg != expected_msg, expected_msg is 请求成功1, body_msg is message
+[INFO 2020-03-06 14:59:53]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Admin.yaml
+[INFO 2020-03-06 14:59:53]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-06 14:59:53]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/IndependentContract.yaml
+[DEBUG 2020-03-06 14:59:54]【cookies】:{}【token】:322aa4becfbb0749730cc2e548ef6337【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[ERROR 2020-03-06 14:59:54]Response body msg != expected_msg, expected_msg is 请求成功1, body_msg is message
+[INFO 2020-03-06 15:06:34]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Admin.yaml
+[INFO 2020-03-06 15:11:00]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Admin.yaml
+[INFO 2020-03-06 15:11:00]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-06 15:11:00]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/IndependentContract.yaml
+[DEBUG 2020-03-06 15:11:01]【cookies】:{}【token】:2fad1d4f798afdce349625be687a51d9【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[ERROR 2020-03-06 15:11:01]Response body msg != expected_msg, expected_msg is 请求成功1, body_msg is message
+[INFO 2020-03-06 15:12:01]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Admin.yaml
+[INFO 2020-03-06 15:12:01]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-06 15:12:01]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/IndependentContract.yaml
+[DEBUG 2020-03-06 15:12:02]【cookies】:{}【token】:e961c243e0e8113147b7b9755f4c5b71【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[ERROR 2020-03-06 15:12:02]Response body msg != expected_msg, expected_msg is HS201912051629086159, body_msg is orderId
+[INFO 2020-03-06 15:12:47]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Admin.yaml
+[INFO 2020-03-06 15:12:47]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-06 15:12:47]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/IndependentContract.yaml
+[DEBUG 2020-03-06 15:12:48]【cookies】:{}【token】:d7b8cd21403344ab62d6e0557a4a15d2【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[INFO 2020-03-06 15:13:00]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Admin.yaml
+[INFO 2020-03-06 15:13:00]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-06 15:13:00]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/IndependentContract.yaml
+[DEBUG 2020-03-06 15:13:01]【cookies】:{}【token】:abba50f76f5e48d085537995b39f0f80【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[ERROR 2020-03-06 15:13:01]Response body msg != expected_msg, expected_msg is HS201912051629086159, body_msg is orderId
+[INFO 2020-03-06 15:13:32]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Admin.yaml
+[INFO 2020-03-06 15:13:32]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-06 15:13:32]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/IndependentContract.yaml
+[DEBUG 2020-03-06 15:13:32]【cookies】:{}【token】:9bf989aeeaee9acd3388add9e8055e66【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[ERROR 2020-03-06 15:13:33]Response body msg != expected_msg, expected_msg is HS201912051629086159, body_msg is orderId
+[INFO 2020-03-06 15:13:42]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Admin.yaml
+[INFO 2020-03-06 15:13:42]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-06 15:13:42]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/IndependentContract.yaml
+[DEBUG 2020-03-06 15:13:43]【cookies】:{}【token】:cedab81a302a1bab9fa3eef321edadf7【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[ERROR 2020-03-06 15:13:43]Response body msg != expected_msg, expected_msg is HS201912051629086159, body_msg is orderId
+[INFO 2020-03-06 15:14:03]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Admin.yaml
+[INFO 2020-03-06 15:14:03]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-06 15:14:03]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/IndependentContract.yaml
+[DEBUG 2020-03-06 15:14:04]【cookies】:{}【token】:fae712aa305460e515ee3ff1a7dcc18b【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[INFO 2020-03-06 15:14:39]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Admin.yaml
+[INFO 2020-03-06 15:14:39]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-06 15:14:39]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/IndependentContract.yaml
+[DEBUG 2020-03-06 15:14:40]【cookies】:{}【token】:86596c0e47af33e14ae71103decd05d6【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[ERROR 2020-03-06 15:14:40]Response body msg != expected_msg, expected_msg is 734, body_msg is id
+[INFO 2020-03-06 15:14:52]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Admin.yaml
+[INFO 2020-03-06 15:14:52]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-06 15:14:52]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/IndependentContract.yaml
+[DEBUG 2020-03-06 15:14:53]【cookies】:{}【token】:7be25cb14743c2a56580e980b767c5a9【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[ERROR 2020-03-06 15:14:53]Response body msg != expected_msg, expected_msg is 735, body_msg is id
+[INFO 2020-03-06 15:15:19]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Admin.yaml
+[INFO 2020-03-06 15:15:19]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-06 15:15:19]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/IndependentContract.yaml
+[DEBUG 2020-03-06 15:15:20]【cookies】:{}【token】:cd07dccb47102b9465b09d5e453b0b91【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[ERROR 2020-03-06 15:15:20]Response body msg != expected_msg, expected_msg is 735, body_msg is id
+[INFO 2020-03-06 15:15:42]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Admin.yaml
+[INFO 2020-03-06 15:15:42]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-06 15:15:42]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/IndependentContract.yaml
+[DEBUG 2020-03-06 15:15:43]【cookies】:{}【token】:fa56d92403e0724d3d26b8c435caa55d【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[INFO 2020-03-06 15:15:52]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Admin.yaml
+[INFO 2020-03-06 15:15:52]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-06 15:15:52]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/IndependentContract.yaml
+[DEBUG 2020-03-06 15:15:53]【cookies】:{}【token】:ee129b7acf1dae7aa55cfb3d5336935b【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[ERROR 2020-03-06 15:15:53]Response body msg != expected_msg, expected_msg is 735, body_msg is id
+[INFO 2020-03-06 15:16:11]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Admin.yaml
+[INFO 2020-03-06 15:16:11]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-06 15:16:11]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/IndependentContract.yaml
+[DEBUG 2020-03-06 15:16:12]【cookies】:{}【token】:429bb9a88ab37cf658d9b29207cb3ab3【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[INFO 2020-03-06 15:26:31]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Admin.yaml
+[INFO 2020-03-06 15:26:31]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-06 15:26:31]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/IndependentContract.yaml
+[DEBUG 2020-03-06 15:26:32]【cookies】:{}【token】:0a685a8d35157ce9ca4733e11cd7b7db【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[INFO 2020-03-06 15:28:40]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Admin.yaml
+[INFO 2020-03-06 15:28:40]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-06 15:28:40]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/IndependentContract.yaml
+[DEBUG 2020-03-06 15:28:40]【cookies】:{}【token】:77d93070f899521315ed5e23f7d12e64【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[ERROR 2020-03-06 15:28:41]Response time > expected_time, expected_time is 300, time is 543.26
+[INFO 2020-03-06 15:28:59]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Admin.yaml
+[INFO 2020-03-06 15:28:59]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-06 15:28:59]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/IndependentContract.yaml
+[DEBUG 2020-03-06 15:28:59]【cookies】:{}【token】:a209774f74112e8d79c0b6dc4dc3b9f2【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[ERROR 2020-03-06 15:29:00]Response body msg != expected_msg, expected_msg is 1请求成功, body_msg is message
+[INFO 2020-03-06 15:29:24]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Admin.yaml
+[INFO 2020-03-06 15:29:24]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-06 15:29:24]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/IndependentContract.yaml
+[DEBUG 2020-03-06 15:29:25]【cookies】:{}【token】:46c2a94d05568ec23b6528e846da0cfe【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[INFO 2020-03-06 15:29:32]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Admin.yaml
+[INFO 2020-03-06 15:29:42]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Admin.yaml
+[INFO 2020-03-06 15:29:42]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-06 15:29:42]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/IndependentContract.yaml
+[DEBUG 2020-03-06 15:29:42]【cookies】:{}【token】:02c4d527e9b763a7d4b282d92999c900【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[ERROR 2020-03-06 15:29:43]Response time > expected_time, expected_time is 400, time is 592.952
+[INFO 2020-03-06 15:30:04]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Admin.yaml
+[INFO 2020-03-06 15:30:04]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-06 15:30:04]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/IndependentContract.yaml
+[DEBUG 2020-03-06 15:30:04]【cookies】:{}【token】:54da962b59a598a007528d039812f175【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[INFO 2020-03-06 15:30:19]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Admin.yaml
+[INFO 2020-03-06 15:30:19]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-06 15:30:19]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/IndependentContract.yaml
+[DEBUG 2020-03-06 15:30:19]【cookies】:{}【token】:25e11be034fa9962d6bb57b31356ea2d【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[ERROR 2020-03-06 15:30:20]Response time > expected_time, expected_time is 600, time is 622.285
+[INFO 2020-03-06 15:30:39]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Admin.yaml
+[INFO 2020-03-06 15:30:39]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-06 15:30:39]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/IndependentContract.yaml
+[DEBUG 2020-03-06 15:30:39]【cookies】:{}【token】:e1827434a17cc608c0bda0cb5d36525a【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[INFO 2020-03-06 15:30:58]初始化配置文件, path=C:\Python35\API_Automation-master\Conf\config.ini
+[INFO 2020-03-06 15:30:59]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Admin.yaml
+[INFO 2020-03-06 15:30:59]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-06 15:30:59]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/IndependentContract.yaml
+[DEBUG 2020-03-06 15:30:59]【cookies】:{}【token】:98d7316875c8d4403ed36c70822e2b96【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-06 15:31:00]【cookies】:{}【token】:821265d99ee8c751494db411f3d94234【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-06 15:31:00]【cookies】:{}【token】:05625b4cd46863849ff9a135b666f6f9【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[ERROR 2020-03-06 15:31:00]Response body msg != expected_msg, expected_msg is CA申请信息提交成功, body_msg is message
+[DEBUG 2020-03-06 15:31:01]【cookies】:{}【token】:265fc18e2de0b62445566d316cfe04f2【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[ERROR 2020-03-06 15:31:04]Response body msg != expected_msg, expected_msg is 实名信息不一致，请检查后重新认证, body_msg is message
+[DEBUG 2020-03-06 15:31:04]【cookies】:{}【token】:bbf85d08fb075b47e9439355c8d88005【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-06 15:31:06]【cookies】:{}【token】:36f250e073a39d19358deee83f4a3593【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[INFO 2020-03-06 15:31:13]邮件发送成功
+[INFO 2020-03-06 15:44:16]初始化配置文件, path=C:\Python35\API_Automation-master\Conf\config.ini
+[INFO 2020-03-06 15:44:17]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Admin.yaml
+[INFO 2020-03-06 15:44:17]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-06 15:44:17]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/IndependentContract.yaml
+[DEBUG 2020-03-06 15:44:17]【cookies】:{}【token】:b965d862d7b7ff974c3aceaab018aa59【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-06 15:44:18]【cookies】:{}【token】:61d2c5e855a3b013dcf1cc47b6f5e295【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-06 15:44:18]【cookies】:{}【token】:a62fc8628632920cc62cb5429088bc3a【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[ERROR 2020-03-06 15:44:19]Response body msg != expected_msg, expected_msg is CA申请信息提交成功, body_msg is message
+[DEBUG 2020-03-06 15:44:19]【cookies】:{}【token】:32dc36b6e53036c20ecd2d263afa1dca【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-06 15:44:21]【cookies】:{}【token】:0bdc391027f156d4bc2898e5956d1035【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-06 15:44:23]【cookies】:{}【token】:163ef5384eb662d3a6390851543de0c5【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[INFO 2020-03-06 15:44:26]邮件发送成功
+[INFO 2020-03-06 15:44:45]初始化配置文件, path=C:\Python35\API_Automation-master\Conf\config.ini
+[INFO 2020-03-06 15:44:46]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Admin.yaml
+[INFO 2020-03-06 15:44:46]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-06 15:44:46]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/IndependentContract.yaml
+[DEBUG 2020-03-06 15:44:46]【cookies】:{}【token】:8fed1e8444645020ae5a5ca2c41a3b0f【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-06 15:44:47]【cookies】:{}【token】:d79cc06c269dca846e1c075d4a7815e4【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-06 15:44:47]【cookies】:{}【token】:d68befa3db3acad9a2581042a3851334【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[ERROR 2020-03-06 15:44:48]Response body msg != expected_msg, expected_msg is CA申请信息提交成功, body_msg is message
+[DEBUG 2020-03-06 15:44:48]【cookies】:{}【token】:c5decba476fe7325eabd6d7c8a8c7d92【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-06 15:44:49]【cookies】:{}【token】:c67a01b28571100373712445d91f96b6【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-06 15:44:51]【cookies】:{}【token】:a09809aafe65a459bbd002f7d6c611b8【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[INFO 2020-03-06 15:44:57]邮件发送成功
+[INFO 2020-03-06 16:34:29]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Admin.yaml
+[INFO 2020-03-06 16:34:29]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-06 16:34:29]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/IndependentContract.yaml
+[DEBUG 2020-03-06 16:34:30]【cookies】:{}【token】:ad29198aac26a77bf75dd2e82ad53d85【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-06 16:34:30]【cookies】:{}【token】:9730b607cff1c27f4ca084c98419ddeb【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-06 16:34:31]【cookies】:{}【token】:421d368d2c474b6289a833779f1d4667【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-06 16:34:31]【cookies】:{}【token】:c3cd60ed012409f9cae6de7127f00583【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[INFO 2020-03-06 16:34:49]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Admin.yaml
+[INFO 2020-03-06 16:34:49]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-06 16:34:49]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/IndependentContract.yaml
+[DEBUG 2020-03-06 16:34:49]【cookies】:{}【token】:e62ad28c4f378d6bef68775a0dc82530【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-06 16:34:50]【cookies】:{}【token】:558d0efb88f83aa835e0f1a61130b9b6【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-06 16:34:50]【cookies】:{}【token】:ecf4c92380a54d2cb74d4a56d9b2a6da【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-06 16:34:51]【cookies】:{}【token】:fc28a4df9fb0fc1e9e88ce94b6a7d7e9【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[INFO 2020-03-06 16:35:03]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Admin.yaml
+[INFO 2020-03-06 16:35:03]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-06 16:35:03]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/IndependentContract.yaml
+[DEBUG 2020-03-06 16:35:03]【cookies】:{}【token】:3fe66043e3f40859ba088a75ce576430【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-06 16:35:04]【cookies】:{}【token】:40b02cbfe4da26d725163a1ef789ab83【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-06 16:35:04]【cookies】:{}【token】:39ca073170e3dfbc404e873de04a8eaa【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-06 16:35:05]【cookies】:{}【token】:46213f77a6c9687b83a82b8382cca155【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[ERROR 2020-03-06 16:35:05]Response body msg != expected_msg, expected_msg is 请求成功1, body_msg is message
+[INFO 2020-03-06 16:35:43]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Admin.yaml
+[INFO 2020-03-06 16:35:43]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-06 16:35:43]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/IndependentContract.yaml
+[DEBUG 2020-03-06 16:35:43]【cookies】:{}【token】:816a8dc9a4bd0a25e01e559cf434ea4c【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-06 16:35:44]【cookies】:{}【token】:4670cce85e061a3a68a47e97eef0b057【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-06 16:35:44]【cookies】:{}【token】:8820363b6a9c49bdfc7f0f8b069d203f【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-06 16:35:45]【cookies】:{}【token】:1f11ed183140edf98ae8597ad00b1173【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[ERROR 2020-03-06 16:35:45]Response body msg != expected_msg, expected_msg is 请求成功1, body_msg is message
+[INFO 2020-03-06 17:15:01]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/OrderList.yaml
+[INFO 2020-03-06 17:15:01]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-06 17:15:01]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/IndependentContract.yaml
+[INFO 2020-03-06 17:15:01]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Index.yaml
+[DEBUG 2020-03-06 17:15:01]【cookies】:{}【token】:99fde0fd2eff423b5b3dc81b62072917【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-06 17:15:02]【cookies】:{}【token】:babc2a9cbe9351663652c758a95ff69b【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-06 17:15:03]【cookies】:{}【token】:22f883774af09f73bc9adafb04adbfde【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[INFO 2020-03-06 17:15:17]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/OrderList.yaml
+[INFO 2020-03-06 17:15:17]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-06 17:15:17]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/IndependentContract.yaml
+[INFO 2020-03-06 17:15:17]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Index.yaml
+[DEBUG 2020-03-06 17:15:18]【cookies】:{}【token】:837fcbca4a52b9e2c7cfd14c36305246【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[INFO 2020-03-06 17:16:15]初始化配置文件, path=C:\Python35\API_Automation-master\Conf\config.ini
+[INFO 2020-03-06 17:16:15]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/OrderList.yaml
+[INFO 2020-03-06 17:16:16]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-06 17:16:16]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/IndependentContract.yaml
+[INFO 2020-03-06 17:16:16]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Index.yaml
+[DEBUG 2020-03-06 17:16:16]【cookies】:{}【token】:a55c7e16f2015c2bed9f9a90ee8752c9【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-06 17:16:19]【cookies】:{}【token】:924388e86d4003970c98b3dbda25a9de【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-06 17:16:21]【cookies】:{}【token】:328bc1efbba357e67f8742e093e53778【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-06 17:16:23]【cookies】:{}【token】:7ad490f26eb93be88b471b471e7b3e8b【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-06 17:16:25]【cookies】:{}【token】:d43811f849ae91c8b331db2df73a4591【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-06 17:16:25]【cookies】:{}【token】:b6cfd42dd89b2802217847cbe82548c6【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-06 17:16:26]【cookies】:{}【token】:04c0c71874bca854a98681342e37b080【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[DEBUG 2020-03-06 17:16:26]【cookies】:{}【token】:607c1fc7f7a5746b96e2ed097f3cc561【userId】:df5eafa4f36e24e584c3ad0a0f217f22
+[INFO 2020-03-06 17:16:30]邮件发送成功
+[INFO 2020-03-12 09:33:42]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/OrderIndex.yaml
+[INFO 2020-03-12 09:33:42]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-12 09:33:42]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/IndependentContract.yaml
+[INFO 2020-03-12 09:33:42]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Index.yaml
+[INFO 2020-03-12 09:33:42]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/GetContractList.yaml
+[INFO 2020-03-12 09:33:43]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/OrganizationCreate.yaml
+[INFO 2020-03-12 09:34:02]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/OrderIndex.yaml
+[INFO 2020-03-12 09:34:02]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-12 09:34:02]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/IndependentContract.yaml
+[INFO 2020-03-12 09:34:02]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Index.yaml
+[INFO 2020-03-12 09:34:02]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/GetContractList.yaml
+[INFO 2020-03-12 09:34:02]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/OrganizationCreate.yaml
+[INFO 2020-03-12 09:34:29]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/OrderIndex.yaml
+[INFO 2020-03-12 09:34:29]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-12 09:34:29]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/IndependentContract.yaml
+[INFO 2020-03-12 09:34:29]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Index.yaml
+[INFO 2020-03-12 09:34:29]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/GetContractList.yaml
+[INFO 2020-03-12 09:34:29]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/OrganizationCreate.yaml
+[INFO 2020-03-12 09:35:23]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/OrderIndex.yaml
+[INFO 2020-03-12 09:35:23]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-12 09:35:23]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/IndependentContract.yaml
+[INFO 2020-03-12 09:35:23]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Index.yaml
+[INFO 2020-03-12 09:35:23]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/GetContractList.yaml
+[INFO 2020-03-12 09:35:23]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/OrganizationCreate.yaml
+[INFO 2020-03-12 09:37:43]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/OrderIndex.yaml
+[INFO 2020-03-12 09:37:43]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-12 09:37:43]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/IndependentContract.yaml
+[INFO 2020-03-12 09:37:43]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Index.yaml
+[INFO 2020-03-12 09:37:43]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/GetContractList.yaml
+[INFO 2020-03-12 09:37:43]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/OrganizationCreate.yaml
+[INFO 2020-03-12 09:38:40]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/OrderIndex.yaml
+[INFO 2020-03-12 09:38:40]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-12 09:38:41]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/IndependentContract.yaml
+[INFO 2020-03-12 09:38:41]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Index.yaml
+[INFO 2020-03-12 09:38:41]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/GetContractList.yaml
+[INFO 2020-03-12 09:38:41]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/OrganizationCreate.yaml
+[INFO 2020-03-12 09:41:52]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/OrderIndex.yaml
+[INFO 2020-03-12 09:41:52]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-12 09:41:52]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/IndependentContract.yaml
+[INFO 2020-03-12 09:41:52]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Index.yaml
+[INFO 2020-03-12 09:41:52]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/GetContractList.yaml
+[INFO 2020-03-12 09:41:52]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/OrganizationCreate.yaml
+[INFO 2020-03-12 09:50:33]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/OrderIndex.yaml
+[INFO 2020-03-12 09:50:33]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-12 09:50:33]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/IndependentContract.yaml
+[INFO 2020-03-12 09:50:33]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Index.yaml
+[INFO 2020-03-12 09:50:33]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/GetContractList.yaml
+[INFO 2020-03-12 09:50:33]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/OrganizationCreate.yaml
+[INFO 2020-03-12 09:53:38]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/OrderIndex.yaml
+[INFO 2020-03-12 09:53:38]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-12 09:53:38]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/IndependentContract.yaml
+[INFO 2020-03-12 09:53:38]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Index.yaml
+[INFO 2020-03-12 09:53:38]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/GetContractList.yaml
+[INFO 2020-03-12 09:53:38]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/OrganizationCreate.yaml
+[INFO 2020-03-12 09:54:18]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/OrderIndex.yaml
+[INFO 2020-03-12 09:54:18]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-12 09:54:18]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/IndependentContract.yaml
+[INFO 2020-03-12 09:54:18]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Index.yaml
+[INFO 2020-03-12 09:54:18]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/GetContractList.yaml
+[INFO 2020-03-12 09:54:18]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/OrganizationCreate.yaml
+[INFO 2020-03-12 09:54:52]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/OrderIndex.yaml
+[INFO 2020-03-12 09:54:52]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/CreateCa.yaml
+[INFO 2020-03-12 09:54:52]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/IndependentContract.yaml
+[INFO 2020-03-12 09:54:52]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/Index.yaml
+[INFO 2020-03-12 09:54:52]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/GetContractList.yaml
+[INFO 2020-03-12 09:54:52]解析yaml, Path:C:\Python35\API_Automation-master/Params/Param/OrganizationCreate.yaml

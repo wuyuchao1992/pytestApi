@@ -1,0 +1,19 @@
+<ns0:environment xmlns:ns0="urn:model.commons.qatools.yandex.ru">
+  <id>893d44b4-80bd-4b68-9426-5e7a8c1313bd</id>
+  <name>Allure environment parameters</name>
+  <parameter>
+    <key>tester</key>
+    <name>tester</name>
+    <value>your name</value>
+  </parameter>
+  <parameter>
+    <key>hostname</key>
+    <name>hostname</name>
+    <value>api.hsbro.com.cn</value>
+  </parameter>
+  <parameter>
+    <key>environment</key>
+    <name>environment</name>
+    <value>debug</value>
+  </parameter>
+</ns0:environment>
